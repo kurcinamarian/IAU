@@ -1,0 +1,773 @@
+location	code	revision	station	latitude	longitude
+Europe/Madrid	ES	12/22/2016, 00:00:00	San Juan de Aznalfarache	37.35813	-6.03731
+America/Bogota	CO	22 Jul 2023	Villa del Rosario	7.83389	-72.47417
+Asia/Kolkata	IN	2022/09/04	Rangia	26.44931	91.61356
+America/Chicago	US	2021/03/29	Rolla	37.95143	-91.77127
+Europe/Berlin	DE	2023/09/12	Albstadt	48.21644	9.02596
+Europe/Amsterdam	NL	16 Sep 2019	Culemborg	51.955	5.22778
+Europe/Brussels	BE	2016/03/16	Gembloux	50.56149	4.69889
+America/New_York	US	2016/01/08	Boston	42.35843	-71.05977
+Asia/Tokyo	JP	2024-07-31	Fujioka	36.24624	139.07204
+America/Edmonton	CA	2018/09/10	Sherwood Park	53.51684	-113.3187
+Indian/Antananarivo	MG	05/18/2021, 00:00:00	Antanifotsy	-19.65	47.31667
+Asia/Jakarta	ID	2016-11-14	Tebingtinggi	3.3285	99.1625
+Europe/London	GB	2019/04/17	East Dereham	52.68333	0.93333
+Europe/Brussels	BE	05 Nov 2019	Beveren	51.21187	4.25633
+Europe/Paris	FR	03 Apr 2016	Saint-Omer	50.75	2.25
+Asia/Kolkata	IN	2017/04/07	Chamba	32.55531	76.12647
+America/New_York	US	07/05/2024, 00:00:00	Fort Washington	38.70734	-77.02303
+America/Chicago	US	08 Feb 2020	Tupelo	34.25807	-88.70464
+Asia/Bangkok	TH	2018-10-26	Bua Yai	15.58552	102.42587
+Asia/Manila	PH	2022-07-27	Calauan	14.14989	121.3152
+Europe/Madrid	ES	2017/07/23	Gandia	38.96667	-0.18333
+Asia/Tokyo	JP	18 Apr 2024	Motomachi	43.82634	144.09638
+Asia/Kolkata	IN	2022/06/13	Gajendragarh	15.73628	75.96976
+Asia/Tokyo	JP	14 Jan 2017	Yamada	39.46667	141.95
+Asia/Kolkata	IN	2020/12/03	Sirsi	14.62072	74.83554
+Asia/Kolkata	IN	2016-11-27	Elamanchili	17.54907	82.85749
+Asia/Tokyo	JP	2021/07/07	Namerikawa	36.75965	137.36215
+Europe/Vilnius	LT	08/22/2018, 00:00:00	Ukmerge	55.25	24.75
+Europe/Paris	FR	08/25/2019, 00:00:00	Fontenay-aux-Roses	48.79325	2.29275
+Australia/Melbourne	AU	2016-11-11	Wheelers Hill	-37.9	145.18333
+Europe/Paris	FR	07/26/2016, 00:00:00	Marseille 11	43.2907	5.4384
+America/La_Paz	BO	2019-01-09	Tupiza	-21.44345	-65.71875
+America/Los_Angeles	US	06/11/2020, 00:00:00	Camarillo	34.21639	-119.0376
+Asia/Urumqi	CN	2021-03-24	Hoxtolgay	46.51872	86.00214
+Australia/Melbourne	AU	2022/06/17	Frankston South	-38.16604	145.13643
+Europe/London	GB	10 Aug 2022	Barnet	51.65	-0.2
+Africa/Casablanca	MA	09/19/2021, 00:00:00	Jerada	34.31	-2.16
+America/La_Paz	BO	09 Aug 2018	Tupiza	-21.44345	-65.71875
+America/Detroit	US	2021/07/21	Port Huron	42.97086	-82.42491
+America/Detroit	US	27 Aug 2025	Port Huron	42.97086	-82.42491
+Europe/London	GB	2018-01-29	Surbiton	51.39148	-0.29825
+Asia/Yekaterinburg	RU	2019-06-03	Oktyabr‚Äôskiy	54.48147	53.47103
+Asia/Urumqi	CN	2020-11-05	Hoxtolgay	46.51872	86.00214
+America/Argentina/Buenos_Aires	AR	2022-12-29	Chacabuco	-34.64167	-60.47389
+America/Chicago	US	2024/12/25	Copperas Cove	31.12406	-97.90308
+America/Los_Angeles	US	03/12/2022, 00:00:00	Indio	33.7207	-116.21677
+Asia/Shanghai	CN	17 Jun 2016	Liaoyang	41.27194	123.17306
+Europe/Berlin	DE	15 Dec 2018	Landshut	48.52961	12.16179
+Australia/Perth	AU	2016/09/21	Willetton	-32.05251	115.88782
+Europe/Berlin	DE	2023-03-16	Hermsdorf	52.61131	13.31783
+Europe/Madrid	ES	11/17/2022, 00:00:00	Jumilla	38.47917	-1.325
+America/Chicago	US	12/11/2018, 00:00:00	Odessa	31.84568	-102.36764
+Asia/Manila	PH	12/02/2020, 00:00:00	Tupi	6.33444	124.95278
+America/New_York	US	12 Mar 2020	Newburgh	41.50343	-74.01042
+America/Chicago	US	2015/11/26	Tupelo	34.25807	-88.70464
+Asia/Manila	PH	2024-11-17	Cebu City	10.31672	123.89071
+Asia/Tokyo	JP	2024-11-11	Iwade	34.25	135.31667
+Europe/London	GB	2016/05/22	Westbury	51.26	-2.1875
+America/Chicago	US	2022/04/16	West Des Moines	41.57721	-93.71133
+Europe/Istanbul	TR	03 Sep 2023	Mardin	37.31309	40.74357
+Africa/Porto-Novo	BJ	04 Jan 2016	Tchaourou	8.88649	2.59753
+Asia/Yerevan	AM	2022/10/14	Hrazdan	40.49748	44.7662
+Europe/London	GB	05 Oct 2023	High Wycombe	51.62907	-0.74934
+Asia/Yekaterinburg	RU	2015/10/01	Kachkanar	58.7002	59.4839
+Europe/Moscow	RU	2024-12-23	Malakhovka	55.64776	38.02486
+America/Argentina/Buenos_Aires	AR	2016/08/05	Chacabuco	-34.64167	-60.47389
+Asia/Manila	PH	02/12/2018, 00:00:00	Naga	10.20898	123.758
+America/Chicago	US	01/20/2023, 00:00:00	Fairview Heights	38.58894	-89.99038
+Europe/Prague	CZ	2024/03/23	Telč	49.183239	15.454273
+Australia/Brisbane	AU	10/29/2022, 00:00:00	Maryborough	-25.54073	152.70493
+Europe/Minsk	BY	2019-02-13	Dobrush	52.4089	31.3237
+America/New_York	US	09 Nov 2024	Port Richmond	40.63316	-74.13653
+America/Sao_Paulo	BR	08 Jan 2021	Esmeraldas	-19.7625	-44.31389
+Africa/Nairobi	KE	11/15/2020, 00:00:00	Busia	0.46005	34.11169
+America/Chicago	US	2016-09-21	South Lawndale	41.84364	-87.71255
+Europe/Paris	FR	2017/01/31	Colomiers	43.61058	1.33467
+America/Los_Angeles	US	2022-03-07	Palm Desert	33.72255	-116.37697
+Europe/Brussels	BE	2022/08/15	Rixensart	50.71229	4.52529
+Europe/London	GB	2024/06/13	Selby	53.78333	-1.06667
+Asia/Shanghai	CN	08/26/2024, 00:00:00	Guli	28.88162	120.03308
+Asia/Jakarta	ID	2018-02-12	Pameungpeuk	-7.01833	107.60389
+America/Los_Angeles	US	2018-09-25	Keizer	44.99012	-123.02621
+America/Mexico_City	MX	2023/12/15	Zacoalco de Torres	20.22816	-103.5687
+Europe/Moscow	RU	2022-10-03	Tyoply Stan	55.62047	37.49338
+America/Chicago	US	2024-01-07	Estelle	29.84576	-90.10674
+Africa/Bamako	ML	20 Jul 2023	Kati	12.74409	-8.07257
+America/Chicago	US	2016-05-12	Fresno	29.53885	-95.44744
+Europe/Paris	FR	04/16/2024, 00:00:00	Bron	45.73333	4.91667
+Asia/Yekaterinburg	RU	2019-12-30	Kachkanar	58.7002	59.4839
+America/Los_Angeles	US	2024/04/10	Lompoc	34.63915	-120.45794
+America/Los_Angeles	US	02/25/2023, 00:00:00	South Whittier	33.95015	-118.03917
+Europe/Prague	CZ	15 Jan 2016	Praha	50.073658	14.418540
+Europe/Stockholm	SE	03 Jul 2016	Boo	59.33333	18.28333
+Europe/Berlin	DE	25 Feb 2025	Siegburg	50.80019	7.20769
+Europe/Amsterdam	NL	2015-12-25	Hardenberg	52.57583	6.61944
+Europe/London	GB	2017-06-04	Poulton-le-Fylde	53.83333	-2.98333
+Europe/Madrid	ES	2022-05-04	San Juan de Aznalfarache	37.35813	-6.03731
+Asia/Kolkata	IN	12/04/2015, 00:00:00	Hungund	16.06213	76.0586
+America/Los_Angeles	US	2023/04/08	Kent	47.38093	-122.23484
+Africa/Lagos	NG	12/25/2023, 00:00:00	Nkpor	6.15038	6.83042
+Asia/Manila	PH	2018-06-18	Burgos	15.72892	120.57224
+Europe/Berlin	DE	14 Apr 2019	Weimar	50.9803	11.32903
+America/Belem	BR	02/21/2017, 00:00:00	Soure	-0.71667	-48.52333
+America/Lima	PE	2025/01/20	Minas de Marcona	-15.21194	-75.11028
+Asia/Tokyo	JP	2024-10-04	Komono	35	136.51667
+Europe/London	GB	16 Nov 2019	Gainsborough	53.38333	-0.76667
+Asia/Kuching	MY	02/04/2023, 00:00:00	Donggongon	5.90702	116.10146
+Asia/Kolkata	IN	10 Oct 2023	Talipparamba	12.04161	75.35927
+Asia/Makassar	ID	12/10/2022, 00:00:00	Majene	-3.5403	118.9707
+Asia/Manila	PH	07/03/2020, 00:00:00	Masbate	12.37169	123.62494
+America/Havana	CU	2018/03/01	Varadero	23.15678	-81.24441
+Europe/Moscow	RU	26 Jun 2019	Zhukovka	53.53395	33.72798
+Asia/Shanghai	CN	17 Feb 2025	Zhuangyuan	37.30553	120.82747
+America/Argentina/Ushuaia	AR	2021-09-14	Ushuaia	-54.8	-68.3
+Europe/Samara	RU	28 Apr 2020	Otradnyy	53.37596	51.3452
+Asia/Almaty	KZ	2016/08/25	Otegen Batyra	43.41949	77.0202
+America/Chicago	US	01 Oct 2023	Jackson	35.61452	-88.81395
+Europe/Rome	IT	2023/07/01	Malnate	45.79377	8.88104
+Asia/Jakarta	ID	2024/11/26	Cibinong	-6.48167	106.85417
+Europe/Madrid	ES	07 May 2025	Cardedeu	41.63976	2.35739
+Asia/Shanghai	CN	08/14/2020, 00:00:00	Huangshi	30.24706	115.04814
+Europe/Rome	IT	2024-08-28	Bisceglie	41.24264	16.50104
+America/Caracas	VE	17 Mar 2016	La Victoria	10.22677	-67.33122
+Asia/Yekaterinburg	RU	2021/01/11	Ishim	56.11281	69.49015
+Europe/Moscow	RU	01/16/2023, 00:00:00	Naro-Fominsk	55.38752	36.73307
+America/Toronto	CA	2019-06-23	Beaconsfield	45.43341	-73.86586
+America/Port-au-Prince	HT	2021/12/17	Croix-des-Bouquets	18.57677	-72.22625
+America/Havana	CU	18 Nov 2023	Jaruco	23.04419	-82.00919
+Europe/Kyiv	UA	2024-02-08	Voznesensk	47.56494	31.33078
+Africa/Lagos	NG	2017-07-06	Kafanchan	9.58126	8.2926
+Africa/Tunis	TN	26 Jul 2021	Msaken	35.72917	10.58082
+America/Tegucigalpa	HN	2019-01-21	Olanchito	15.48131	-86.57415
+America/Sao_Paulo	BR	11 Nov 2018	Sarandi	-23.44361	-51.87389
+America/New_York	US	03/14/2018, 00:00:00	Brunswick	43.91452	-69.96533
+Asia/Irkutsk	RU	2017-07-09	Ulan-Ude	51.82721	107.60627
+America/Glace_Bay	CA	2021/07/28	Sydney	46.1351	-60.1831
+Europe/Paris	FR	2021-03-30	Marly-le-Roi	48.86667	2.08333
+Europe/Zurich	CH	2025-06-25	Adliswil	47.30997	8.52462
+America/Mexico_City	MX	02 Jul 2019	Jocotepec	20.28527	-103.42897
+America/Chicago	US	2016-10-01	Brenham	30.16688	-96.39774
+Asia/Krasnoyarsk	RU	2016/07/03	Sharypovo	55.54028	89.20083
+Europe/Rome	IT	12/25/2018, 00:00:00	Montecchio Maggiore-Alte Ceccato	45.50369	11.412
+Europe/Moscow	RU	2021/06/24	Zhukovka	53.53395	33.72798
+America/Chicago	US	05/15/2017, 00:00:00	Bourbonnais	41.15376	-87.88754
+Europe/Rome	IT	04/25/2022, 00:00:00	Campobasso	41.55947	14.66737
+Asia/Kolkata	IN	03/22/2023, 00:00:00	Kenda	23.1959	86.51499
+Europe/Brussels	BE	2024-02-25	Denderleeuw	50.88506	4.07601
+Europe/Berlin	DE	2020/12/06	Gifhorn	52.47774	10.5511
+America/Toronto	CA	2023/02/27	Dorval	45.4473	-73.75335
+Asia/Kuala_Lumpur	MY	06/23/2021, 00:00:00	Ulu Tiram	1.6	103.81667
+Africa/Maputo	MZ	2024/06/29	Maxixe	-23.85972	35.34722
+Asia/Tokyo	JP	2021/01/03	Toba	34.4833	136.84186
+Europe/Prague	CZ	29 Jul 2021	Jindřichův Hradec	49.144482	15.006139
+Europe/Berlin	DE	24 Jun 2020	Bad Segeberg	53.94313	10.30215
+Asia/Manila	PH	30 Apr 2024	Cebu City	10.31672	123.89071
+Asia/Manila	PH	2017-02-21	Baliuag	14.95472	120.89694
+Asia/Kabul	AF	03 Jan 2022	Sar-e Pul	36.21544	65.93249
+Africa/Tunis	TN	07/27/2020, 00:00:00	El Alia	37.16911	10.03478
+Africa/Monrovia	LR	2018-04-16	New Yekepa	7.57944	-8.53778
+America/Puerto_Rico	PR	2016/09/10	Aguadilla	18.42745	-67.15407
+Asia/Kolkata	IN	2021-01-17	Udumalaippettai	10.58806	77.24779
+Asia/Qyzylorda	KZ	06 Oct 2018	Kyzylorda	44.85278	65.50917
+Asia/Tokyo	JP	2020-06-28	Sasayama	35.06667	135.21667
+Africa/Windhoek	NA	2025/07/30	Okahandja	-21.98333	16.91667
+Europe/Prague	CZ	10 Apr 2020	Ostrava	49.820923	18.262524
+Asia/Karachi	PK	2020-11-29	Fazilpur	32.17629	75.06583
+America/Sao_Paulo	BR	05/22/2021, 00:00:00	Marau	-28.44917	-52.2
+America/Toronto	CA	2018/03/22	Pointe-Claire	45.44868	-73.81669
+America/New_York	US	03 Feb 2021	Sicklerville	39.71734	-74.96933
+America/New_York	US	2016/11/21	Jersey City	40.72816	-74.07764
+America/New_York	US	2023/10/16	Dublin	32.54044	-82.90375
+Africa/Nairobi	KE	2015/10/13	Busia	0.46005	34.11169
+Europe/Berlin	DE	2022/10/07	Oberhausen	51.47805	6.8625
+Europe/Berlin	DE	10 Aug 2017	Radevormwald	51.20219	7.36027
+America/Sao_Paulo	BR	11/23/2024, 00:00:00	Marau	-28.44917	-52.2
+Asia/Manila	PH	06/08/2019, 00:00:00	Recodo	6.95194	121.96361
+America/Chicago	US	03/05/2017, 00:00:00	Pleasant Prairie	42.55308	-87.93341
+America/New_York	US	16 May 2018	Lutz	28.15112	-82.46148
+America/Argentina/Cordoba	AR	2015/10/03	Rafaela	-31.25033	-61.4867
+Europe/Istanbul	TR	2024-09-04	Gaziantep	37.05944	37.3825
+Africa/Abidjan	CI	2017-03-28	Lakota	5.84752	-5.682
+Europe/London	GB	01 Feb 2016	Thetford	52.41667	0.75
+Europe/Berlin	DE	2016/08/23	Finnentrop	51.168	7.973
+Asia/Shanghai	CN	2022/07/08	Xiangtan	27.85	112.9
+Europe/Berlin	DE	01 Mar 2020	Korschenbroich	51.19139	6.51352
+America/New_York	US	04 Sep 2017	Keene	42.93369	-72.27814
+America/Maceio	BR	07/27/2025, 00:00:00	Lagarto	-10.91722	-37.65
+Europe/Brussels	BE	2019/02/20	Rixensart	50.71229	4.52529
+Asia/Yekaterinburg	RU	2021-02-07	Kuvandyk	51.4781	57.3552
+Europe/Rome	IT	01/19/2016, 00:00:00	Chiavari	44.31771	9.32241
+Asia/Bangkok	TH	11/02/2020, 00:00:00	Nakhon Si Thammarat	8.43333	99.96667
+Europe/Amsterdam	NL	10/15/2020, 00:00:00	Barneveld	52.14	5.58472
+Europe/Moscow	RU	03/21/2017, 00:00:00	Naro-Fominsk	55.38752	36.73307
+Africa/Tunis	TN	16 Apr 2021	Siliana	36.08497	9.37082
+Europe/Rome	IT	2016/11/13	Gorgonzola	45.53069	9.40531
+Europe/Berlin	DE	2020/11/22	Pfullingen	48.46458	9.22796
+Asia/Kolkata	IN	2021-12-17	Sambalpur	21.46527	83.97573
+Asia/Karachi	PK	2024-01-25	Daud Khel	32.87533	71.57118
+Asia/Kolkata	IN	05/26/2021, 00:00:00	Gingee	12.25282	79.41727
+Europe/Bucharest	RO	2019/10/29	Sector 6	44.43579	26.01649
+Europe/Berlin	DE	01/28/2018, 00:00:00	Landshut	48.52961	12.16179
+Asia/Irkutsk	RU	02 Dec 2024	Ulan-Ude	51.82721	107.60627
+Africa/Khartoum	SD	14 Apr 2018	Ar Ruseris	11.8659	34.3869
+America/Sao_Paulo	BR	24 Jan 2017	Guapimirim	-22.53722	-42.98194
+Asia/Kolkata	IN	28 Jul 2025	Aistala	23.18	88.58
+Africa/Lagos	NG	2024-04-20	Nkpor	6.15038	6.83042
+America/Sao_Paulo	BR	2020/07/23	Soledade	-28.81833	-52.51028
+America/Montevideo	UY	08 Nov 2016	Durazno	-33.38056	-56.52361
+Australia/Sydney	AU	2023-03-31	Nowra	-34.88422	150.60036
+Asia/Jakarta	ID	12 Apr 2021	Labuhan Deli	3.7278	98.6738
+America/Sao_Paulo	BR	2019-08-06	Palmeira	-25.42944	-50.00639
+Asia/Kolkata	IN	2025-06-05	Amreli	21.59983	71.21169
+America/New_York	US	04/05/2022, 00:00:00	Yonkers	40.93121	-73.89875
+Europe/Paris	FR	2016-11-09	Cavaillon	43.83125	5.03586
+Asia/Shanghai	CN	02/22/2021, 00:00:00	Yanliang	34.65918	109.22921
+Asia/Shanghai	CN	25 May 2023	Foshan	23.02677	113.13148
+Europe/London	GB	01/21/2017, 00:00:00	Viewpark	55.82737	-4.0573
+Asia/Shanghai	CN	03/28/2023, 00:00:00	Huangshi	30.24706	115.04814
+Africa/Lagos	NG	18 Mar 2022	Kafanchan	9.58126	8.2926
+America/Indiana/Indianapolis	US	2024-06-25	Greenfield	39.78504	-85.76942
+America/New_York	US	2021/05/11	Scotch Plains	40.65538	-74.38987
+America/Chicago	US	2018/03/06	Hutchinson	38.06084	-97.92977
+America/Lima	PE	01/18/2016, 00:00:00	Yunguyo	-16.25	-69.08333
+Europe/Madrid	ES	2025-08-26	Talavera de la Reina	39.96348	-4.83076
+America/Toronto	CA	10/12/2016, 00:00:00	Beaconsfield	45.43341	-73.86586
+Africa/Algiers	DZ	2021-04-13	El Achir	36.06386	4.62744
+Africa/Algiers	DZ	2019/07/12	Cheraga	36.76775	2.95924
+Africa/Accra	GH	05/12/2024, 00:00:00	Tarkwa	5.30383	-1.98956
+Asia/Kolkata	IN	2016/08/13	Sambalpur	21.46527	83.97573
+Europe/Paris	FR	26 Aug 2016	Niort	46.32313	-0.45877
+America/Toronto	CA	2022/11/16	Dorval	45.4473	-73.75335
+Europe/Prague	CZ	2020/10/27	České Budějovice	48.975658	14.480255
+America/New_York	US	30 Jul 2020	Sicklerville	39.71734	-74.96933
+America/Chicago	US	2021/03/08	Bourbonnais	41.15376	-87.88754
+America/New_York	US	2017/08/18	Milledgeville	33.08014	-83.2321
+Asia/Aqtobe	KZ	2020/09/26	Shalqar	47.83333	59.6
+Pacific/Efate	VU	2015-09-29	Port-Vila	-17.73648	168.31366
+Asia/Bangkok	TH	06/06/2025, 00:00:00	Tak Bai	6.25947	102.05461
+America/New_York	US	2017-10-14	Harrisburg	40.2737	-76.88442
+Europe/Helsinki	FI	04/01/2022, 00:00:00	Tornio	65.84811	24.14662
+Europe/Rome	IT	11 Nov 2022	Villabate	38.07789	13.44275
+Europe/Berlin	DE	07 Dec 2019	Rudolstadt	50.72043	11.34046
+America/Los_Angeles	US	04/23/2017, 00:00:00	Santa Maria	34.95303	-120.43572
+Asia/Tokyo	JP	03/18/2020, 00:00:00	Gero	35.8	137.23333
+Asia/Shanghai	CN	2020-06-08	Heyuan	23.73333	114.68333
+America/Mazatlan	MX	2019-04-05	Acaponeta	22.49396	-105.36369
+America/Chicago	US	2015/10/10	Grand Forks	47.92526	-97.03285
+America/Argentina/Buenos_Aires	AR	10 Sep 2023	Tandil	-37.32167	-59.13316
+Asia/Jerusalem	IL	11/10/2022, 00:00:00	Ganei Tikva	32.05971	34.8732
+America/New_York	US	30 Jul 2020	Palm Valley	30.17746	-81.38758
+America/Sao_Paulo	BR	02/12/2016, 00:00:00	Viradouro	-20.87306	-48.29694
+America/Vancouver	CA	2020-09-27	Vernon	50.26729	-119.27337
+Europe/Zagreb	HR	2023/07/14	Split	43.50891	16.43915
+Asia/Kolkata	IN	2018/04/13	Hungund	16.06213	76.0586
+America/Santiago	CL	12/09/2018, 00:00:00	San Bernardo	-33.59217	-70.6996
+America/New_York	US	12/31/2024, 00:00:00	Keene	42.93369	-72.27814
+Europe/Paris	FR	04/12/2021, 00:00:00	Rueil-Malmaison	48.8765	2.18967
+America/Chicago	US	24 Jan 2020	Hueytown	33.45122	-86.99666
+America/Managua	NI	17 Nov 2015	Somoto	13.48082	-86.58208
+Asia/Kolkata	IN	01/14/2025, 00:00:00	Periyakulam	10.12268	77.54372
+Asia/Manila	PH	21 Jun 2020	Masbate	12.37169	123.62494
+Asia/Bangkok	TH	2018/10/03	Bang Ban	14.37395	100.48528
+Asia/Qyzylorda	KZ	2023/09/11	Kyzylorda	44.85278	65.50917
+Asia/Bangkok	TH	12 Feb 2016	Thap Than	15.46063	99.89166
+Europe/Warsaw	PL	01/16/2023, 00:00:00	Strzelce Opolskie	50.5107	18.30056
+Europe/London	GB	2016-07-20	Aberdeen	57.14369	-2.09814
+America/Chicago	US	2016/02/28	Vestavia Hills	33.44872	-86.78777
+Europe/Paris	FR	2020/07/30	Saint-Omer	50.75	2.25
+Europe/Brussels	BE	2023/11/13	Mouscron	50.74497	3.20639
+America/New_York	US	10 Feb 2022	Rutland	43.61062	-72.97261
+America/Grenada	GD	03 Mar 2022	Grenville	12.12278	-61.62498
+Europe/Amsterdam	NL	2023-07-02	Tongelre	51.44889	5.51978
+Asia/Karachi	PK	2022/03/27	Tharu Shah	26.9423	68.11759
+Europe/London	GB	25 Aug 2022	Thetford	52.41667	0.75
+Asia/Kolkata	IN	2025-08-27	Osmanabad	18.18158	76.03889
+America/Havana	CU	2015-10-20	Varadero	23.15678	-81.24441
+America/New_York	US	11 Jul 2021	Lexington	33.98154	-81.23621
+America/Panama	PA	2023-03-09	Veracruz	8.88988	-79.62603
+Europe/Berlin	DE	09/19/2021, 00:00:00	Bensheim	49.68369	8.61839
+Africa/Porto-Novo	BJ	2017/09/15	Tchaourou	8.88649	2.59753
+Asia/Kolkata	IN	23 Nov 2021	Periyakulam	10.12268	77.54372
+Europe/Rome	IT	04/30/2024, 00:00:00	Perugia	43.1122	12.38878
+Africa/Algiers	DZ	2024/08/04	Thenia	36.72544	3.55665
+Europe/London	GB	2024/09/13	Hartley	51.38673	0.30367
+Europe/Prague	CZ	10 Dec 2017	Terezín	50.511002	14.150558
+Europe/Rome	IT	2018-10-17	Perugia	43.1122	12.38878
+Asia/Damascus	SY	03/05/2017, 00:00:00	Binnish	35.95664	36.7138
+Africa/Lagos	NG	11/19/2024, 00:00:00	Ilesa	7.62789	4.74161
+Europe/Paris	FR	2021/12/11	Vienne	45.51667	4.86667
+Europe/Moscow	RU	19 Jul 2023	Naro-Fominsk	55.38752	36.73307
+Europe/Bucharest	RO	2022/06/06	Sector 6	44.43579	26.01649
+Australia/Brisbane	AU	2021/06/19	Maryborough	-25.54073	152.70493
+America/Sao_Paulo	BR	08 May 2020	Alfenas	-21.42917	-45.94722
+Europe/London	GB	12/08/2020, 00:00:00	Blackpool	53.81667	-3.05
+Europe/Warsaw	PL	24 Jul 2018	Jaworzno	50.20528	19.27498
+Asia/Kolkata	IN	2020/06/25	Tiruppuvanam	9.82564	78.25795
+Asia/Bangkok	TH	11/15/2016, 00:00:00	Kantharalak	14.64056	104.64992
+Europe/London	GB	01/09/2016, 00:00:00	Lancing	50.82882	-0.32247
+Europe/Brussels	BE	21 Mar 2017	Lille	51.24197	4.82313
+Europe/Prague	CZ	2024-01-09	Kutná Hora	49.952431	15.268654
+Asia/Kolkata	IN	2020/05/16	Madhipura	25.92127	86.79271
+Asia/Jakarta	ID	12 Dec 2017	Sukabumi	-6.91806	106.92667
+Australia/Perth	AU	05/16/2023, 00:00:00	Willetton	-32.05251	115.88782
+America/Los_Angeles	US	2015/11/01	Lompoc	34.63915	-120.45794
+Asia/Kuala_Lumpur	MY	2017/11/19	Gua Musang	4.88441	101.96857
+Asia/Bangkok	TH	09 Nov 2022	Yasothon	15.79408	104.1451
+America/Mexico_City	MX	2022/11/25	Casa Blanca	19.04222	-98.11889
+Europe/Paris	FR	25 Nov 2022	Mitry-Mory	48.98333	2.61667
+Asia/Makassar	ID	2018-06-22	Balikpapan	-1.26753	116.82887
+Europe/Paris	FR	26 Apr 2025	Saint-Genis-Laval	45.69558	4.7934
+America/Panama	PA	2020-02-12	Veracruz	8.88988	-79.62603
+America/New_York	US	2017-11-01	Milledgeville	33.08014	-83.2321
+Asia/Jakarta	ID	04/23/2025, 00:00:00	Pameungpeuk	-7.01833	107.60389
+Europe/Kyiv	UA	2021/02/11	Krasyliv	49.65186	26.97253
+America/Havana	CU	2025-07-30	Media Luna	20.14298	-77.43532
+Europe/Moscow	RU	2024/11/14	Severodvinsk	64.5635	39.8302
+Europe/Berlin	DE	10/14/2015, 00:00:00	Aschaffenburg	49.97704	9.15214
+America/New_York	US	2021-11-20	Chillum	38.96372	-76.99081
+America/New_York	US	2017-02-01	Keene	42.93369	-72.27814
+Europe/Rome	IT	2023/01/24	Cordenons	45.9836	12.70038
+America/Argentina/Buenos_Aires	AR	12/19/2023, 00:00:00	Tandil	-37.32167	-59.13316
+America/New_York	US	02/01/2024, 00:00:00	Gainesville	29.65163	-82.32483
+Asia/Kolkata	IN	2021/08/02	Kundla	21.34222	71.30633
+Pacific/Port_Moresby	PG	11/16/2017, 00:00:00	Mount Hagen	-5.85746	144.23058
+Europe/Paris	FR	2025/07/16	Lons-le-Saunier	46.67535	5.55575
+Europe/Berlin	DE	04/05/2022, 00:00:00	Korschenbroich	51.19139	6.51352
+America/Los_Angeles	US	03/10/2018, 00:00:00	North Tustin	33.76446	-117.79394
+Africa/Dar_es_Salaam	TZ	08/31/2016, 00:00:00	Magomeni	-6.8	39.25
+Asia/Kolkata	IN	12/19/2024, 00:00:00	Jashpurnagar	22.88783	84.13864
+America/New_York	US	2020/07/19	Front Royal	38.91817	-78.19444
+America/Santiago	CL	04/06/2021, 00:00:00	Ovalle	-30.60106	-71.19901
+Asia/Kolkata	IN	28 Jan 2019	Sojat	25.92493	73.66633
+Europe/Istanbul	TR	07 Sep 2018	Yakuplu	40.98894	28.67582
+America/Havana	CU	2016/08/24	Varadero	23.15678	-81.24441
+Europe/London	GB	2022/04/03	Viewpark	55.82737	-4.0573
+Asia/Manila	PH	04 Nov 2016	Jagna	9.6531	124.3697
+Asia/Colombo	LK	2020/07/31	Hendala	6.9909	79.883
+Asia/Kolkata	IN	06 Aug 2022	Rangia	26.44931	91.61356
+Asia/Qyzylorda	KZ	14 Sep 2016	Kyzylorda	44.85278	65.50917
+Asia/Yekaterinburg	RU	12/07/2019, 00:00:00	Izluchinsk	60.97944	76.92421
+Europe/Kyiv	UA	2020-02-19	Hlukhiv	51.67822	33.9162
+Asia/Shanghai	CN	26 Jun 2021	Shuangcheng	45.35	126.28333
+Africa/Algiers	DZ	2025/08/28	Beni Douala	36.61954	4.08282
+America/New_York	US	06/28/2021, 00:00:00	Covington	39.08367	-84.50855
+Europe/London	GB	2021-03-30	Blackpool	53.81667	-3.05
+America/New_York	US	05/30/2023, 00:00:00	Rutland	43.61062	-72.97261
+Asia/Kolkata	IN	2023/03/23	Chharra	27.9247	78.40102
+America/Toronto	CA	2018/04/09	Beaconsfield	45.43341	-73.86586
+Europe/Madrid	ES	2016/02/29	San Fernando de Henares	40.42386	-3.53261
+Europe/Moscow	RU	2019-11-16	Arzamas	55.39485	43.83992
+Africa/Lagos	NG	2019-04-02	Lagos	6.45407	3.39467
+America/Los_Angeles	US	05/22/2020, 00:00:00	North Tustin	33.76446	-117.79394
+Europe/Amsterdam	NL	14 Sep 2021	Zeist	52.09	5.23333
+America/New_York	US	2025/01/05	Collinwood	41.55838	-81.56929
+America/Manaus	BR	2024-10-23	Itacoatiara	-3.14306	-58.44417
+Asia/Yangon	MM	2018-01-01	Dawei	14.0823	98.19151
+Africa/Dar_es_Salaam	TZ	2018/05/17	Chanika	-5.41667	38.01667
+Asia/Shanghai	CN	2017/11/23	Dongfeng	42.64031	125.51176
+America/Chicago	US	2020/10/08	Independence	39.09112	-94.41551
+Asia/Kolkata	IN	04/08/2022, 00:00:00	Malaut	30.21121	74.4818
+Europe/Berlin	DE	03/07/2019, 00:00:00	Oberhausen	51.47805	6.8625
+Europe/Zaporozhye	UA	22 Oct 2015	Polohy	47.48444	36.25361
+Africa/Lagos	NG	2022/06/03	Lagos	6.45407	3.39467
+America/La_Paz	BO	2019-12-10	Tupiza	-21.44345	-65.71875
+Asia/Yekaterinburg	RU	2022-10-07	Beryozovsky	56.9083	60.8019
+Asia/Jakarta	ID	2016/01/31	Pekanbaru	0.51667	101.44167
+America/Santo_Domingo	DO	09 Jul 2019	Santa Cruz de Barahona	18.20854	-71.10077
+America/New_York	US	04/20/2016, 00:00:00	Covington	39.08367	-84.50855
+America/Havana	CU	2019/06/16	Varadero	23.15678	-81.24441
+America/New_York	US	04/13/2022, 00:00:00	Waterbury	41.55815	-73.0515
+Asia/Shanghai	CN	09/17/2021, 00:00:00	Yanliang	34.65918	109.22921
+America/Caracas	VE	2017-12-23	Tinaquillo	9.91861	-68.30472
+Asia/Tokyo	JP	2020/01/31	Minokamo	35.48199	137.02166
+America/Chicago	US	2022-02-18	Brentwood Estates	36.02506	-86.77917
+America/Phoenix	US	2017-02-08	Scottsdale	33.50921	-111.89903
+Asia/Shanghai	CN	18 Mar 2020	Beidao	34.56861	105.89333
+Asia/Kolkata	IN	2022-02-10	Bhuban	20.88197	85.83334
+Europe/Paris	FR	31 Jan 2019	Marseille 11	43.2907	5.4384
+Indian/Antananarivo	MG	20 Nov 2021	Ikalamavony	-21.15	46.58333
+America/New_York	US	21 Jul 2017	Rutland	43.61062	-72.97261
+Europe/Prague	CZ	20 Jul 2022	Most	50.50301	13.63617
+Africa/Tunis	TN	08/31/2023, 00:00:00	Siliana	36.08497	9.37082
+Asia/Kolkata	IN	2015/10/24	Pujali	22.4711	88.1453
+Europe/London	GB	2020-02-17	Kingston upon Hull	53.7446	-0.33525
+Europe/London	GB	2017-08-08	Selby	53.78333	-1.06667
+Asia/Manila	PH	2020-12-17	Maasin	10.13361	124.84472
+Asia/Jakarta	ID	16 Mar 2018	Jambi City	-1.6	103.61667
+America/Chicago	US	2019-03-08	New City	41.80753	-87.65644
+Europe/Amsterdam	NL	2022-01-23	Barneveld	52.14	5.58472
+Africa/Lagos	NG	12/05/2016, 00:00:00	Yenagoa	4.92675	6.26764
+Asia/Bangkok	TH	05/09/2021, 00:00:00	Nakhon Pathom	13.8196	100.04427
+America/Chicago	US	2017-06-26	Westchester	41.85059	-87.882
+Europe/London	GB	10/19/2021, 00:00:00	Walton-on-the-Naze	51.84819	1.26738
+Asia/Tokyo	JP	11 Feb 2018	Ina	35.82756	137.95378
+Europe/London	GB	2022/09/16	Thetford	52.41667	0.75
+Indian/Antananarivo	MG	2021-09-05	Antanifotsy	-19.65	47.31667
+Asia/Karachi	PK	2019-05-15	Fazilpur	32.17629	75.06583
+Europe/Rome	IT	2022/09/11	Villabate	38.07789	13.44275
+America/Denver	US	2015/12/20	Kearns	40.65995	-111.99633
+Asia/Jakarta	ID	2021-05-17	Muncar	-8.43333	114.33333
+America/Havana	CU	10 Jun 2018	Corralillo	22.98212	-80.58556
+America/Bogota	CO	07/22/2017, 00:00:00	Andes	5.6561	-75.87877
+Europe/Berlin	DE	2025-01-11	Dahlem	52.4581	13.28702
+Asia/Shanghai	CN	2021/06/22	Zhoucun	36.81667	117.81667
+Africa/Lagos	NG	2018-03-25	Ilesa	7.62789	4.74161
+Europe/Moscow	RU	2017/01/14	Zhukovka	53.53395	33.72798
+Europe/Berlin	DE	10/06/2024, 00:00:00	Landshut	48.52961	12.16179
+Asia/Tokyo	JP	2024/09/05	Shinshiro	34.9	137.5
+Europe/London	GB	2025/09/04	Penzance	50.11861	-5.53715
+America/Los_Angeles	US	31 Jul 2018	Claremont	34.09668	-117.71978
+Europe/Brussels	BE	13 Nov 2016	Rixensart	50.71229	4.52529
+Asia/Tehran	IR	2024/05/25	Isfahan	32.65246	51.67462
+Asia/Jerusalem	IL	04/05/2024, 00:00:00	Rahat	31.39547	34.75699
+Asia/Tokyo	JP	09/14/2022, 00:00:00	Hita	33.3213	130.94098
+America/Mexico_City	MX	2020/09/01	Jocotepec	20.28527	-103.42897
+Europe/Berlin	DE	12/09/2017, 00:00:00	Weimar	50.9803	11.32903
+America/Chicago	US	2019-10-07	Kaukauna	44.27804	-88.27205
+Africa/Djibouti	DJ	2024/01/17	'Ali Sabieh	11.15583	42.7125
+America/Mexico_City	MX	10 Jun 2019	Tuxtla	16.75973	-93.11308
+Europe/Volgograd	RU	2018/06/08	Mikhaylovka	50.06	43.2379
+Europe/Paris	FR	2019/04/05	Vienne	45.51667	4.86667
+Asia/Jakarta	ID	2020/08/15	Simpang	-1.26424	104.09701
+Asia/Manila	PH	04/01/2020, 00:00:00	Maasin	10.13361	124.84472
+Africa/Accra	GH	09/19/2016, 00:00:00	Mampong	7.06273	-1.4001
+Asia/Karachi	PK	04/22/2019, 00:00:00	Sillanwali	31.82539	72.54064
+Asia/Kolkata	IN	10 Jun 2021	Barpeta	26.32293	91.00632
+Europe/Kyiv	UA	2024/12/11	Kherson	46.65581	32.6178
+Africa/Mogadishu	SO	2016/04/15	Baki	9.89206	43.38531
+Europe/Prague	CZ	2020-04-17	Telč	49.183239	15.454273
+Asia/Kolkata	IN	2024-07-25	Gajendragarh	15.73628	75.96976
+Asia/Shanghai	CN	09 Dec 2016	Ulanhot	46.08333	122.08333
+America/Havana	CU	12/22/2022, 00:00:00	Corralillo	22.98212	-80.58556
+America/Chicago	US	04/17/2025, 00:00:00	Grand Forks	47.92526	-97.03285
+America/Bogota	CO	15 Mar 2016	Madrid	4.73245	-74.26419
+Europe/Rome	IT	29 Nov 2019	Tortona	44.89784	8.86374
+Asia/Kolkata	IN	10/05/2016, 00:00:00	Aklera	24.41288	76.56719
+America/New_York	US	12/20/2024, 00:00:00	Sterling	39.00622	-77.4286
+Europe/Madrid	ES	06/07/2021, 00:00:00	Baza	37.49073	-2.77259
+Africa/Algiers	DZ	2021/12/18	Boumerdas	36.76639	3.47717
+Asia/Shanghai	CN	03 Nov 2023	Meizhou	24.28859	116.11768
+Asia/Kolkata	IN	2017/03/30	Diamond Harbour	22.19303	88.18466
+Asia/Jakarta	ID	2017/05/07	Diwek	-7.57897	112.23109
+Africa/Ndjamena	TD	2021-01-25	Mongo	12.18441	18.69303
+Europe/Lisbon	PT	12 Aug 2019	Carnaxide	38.72706	-9.24671
+America/New_York	US	2020-04-29	Deltona	28.90054	-81.26367
+Asia/Kolkata	IN	27 Jun 2016	Diamond Harbour	22.19303	88.18466
+Europe/Zurich	CH	10 Oct 2015	Onex	46.18396	6.10237
+Europe/Berlin	DE	02/28/2023, 00:00:00	Hermsdorf	52.61131	13.31783
+Asia/Tokyo	JP	21 Sep 2017	Hakodate	41.77583	140.73667
+Europe/Moscow	RU	29 Oct 2020	Severodvinsk	64.5635	39.8302
+Europe/Istanbul	TR	2018-02-04	Mardin	37.31309	40.74357
+America/Port-au-Prince	HT	06/10/2019, 00:00:00	Thomazeau	18.65297	-72.09391
+America/Costa_Rica	CR	03/22/2024, 00:00:00	Liberia	10.63504	-85.43772
+America/Chicago	US	2020/11/26	Fresno	29.53885	-95.44744
+Asia/Manila	PH	01/23/2024, 00:00:00	Calauan	14.14989	121.3152
+Europe/Lisbon	PT	08/30/2018, 00:00:00	Carnaxide	38.72706	-9.24671
+Africa/Windhoek	NA	2022-03-06	Okahandja	-21.98333	16.91667
+Africa/Kigali	RW	2022-01-21	Rwamagana	-1.9487	30.4347
+Europe/Bratislava	SK	2023/06/03	Skalica	48.8449	17.22635
+Africa/Khartoum	SD	10 May 2022	Ar Ruseris	11.8659	34.3869
+America/New_York	US	2018/11/23	Toledo	41.66394	-83.55521
+Europe/Paris	FR	2017/07/19	Marseille 11	43.2907	5.4384
+Asia/Jerusalem	IL	2023-01-20	Ramla	31.92923	34.86563
+Europe/Prague	CZ	2024-09-20	Litvínov	50.598427	13.610242
+Europe/Moscow	RU	2023/03/13	Kireyevsk	53.93361	37.92792
+Europe/Belgrade	RS	20 Jun 2020	Sremska Mitrovica	44.97639	19.61222
+Asia/Jakarta	ID	10/08/2018, 00:00:00	Simpang	-1.26424	104.09701
+Europe/Moscow	RU	2017/06/05	Gavrilov-Yam	57.30185	39.85331
+Asia/Shanghai	CN	05/30/2020, 00:00:00	Changshu City	31.64615	120.74221
+America/New_York	US	2024-10-19	Bon Air	37.52487	-77.55777
+Asia/Yakutsk	RU	30 Mar 2021	Aykhal	65.93381	111.4834
+America/Chicago	US	04/01/2019, 00:00:00	Coralville	41.6764	-91.58045
+Asia/Aqtobe	KZ	2024/01/31	Shalqar	47.83333	59.6
+Europe/Paris	FR	07/18/2019, 00:00:00	Fontenay-aux-Roses	48.79325	2.29275
+Europe/Rome	IT	02/08/2019, 00:00:00	Misterbianco	37.51803	15.00913
+America/New_York	US	2019/09/13	Cypress Hills	40.67705	-73.89125
+Europe/Berlin	DE	2018-07-25	Aschaffenburg	49.97704	9.15214
+Europe/Prague	CZ	06/10/2022, 00:00:00	Telč	49.183239	15.454273
+Asia/Kolkata	IN	12/22/2015, 00:00:00	Periyakulam	10.12268	77.54372
+America/Chicago	US	22 May 2021	Rosemount	44.73941	-93.12577
+Europe/Sarajevo	BA	2020-08-17	Bijeljina	44.75874	19.21437
+Asia/Shanghai	CN	09/25/2019, 00:00:00	Zaozhuang	34.86472	117.55417
+Asia/Kolkata	IN	07 Nov 2019	Barpeta	26.32293	91.00632
+Europe/Rome	IT	11/15/2021, 00:00:00	Montecchio Maggiore-Alte Ceccato	45.50369	11.412
+Europe/Istanbul	TR	2023/05/22	Mardin	37.31309	40.74357
+Africa/Algiers	DZ	2017-01-02	Frenda	35.06544	1.04945
+Europe/Sofia	BG	26 Sep 2021	Aytos	42.7	27.25
+Asia/Tehran	IR	08/06/2022, 00:00:00	Shahre Jadide Andisheh	35.6803	51.0193
+Asia/Kolkata	IN	23 Aug 2024	Barbil	22.10194	85.37752
+Asia/Aqtobe	KZ	03 May 2025	Shalqar	47.83333	59.6
+Europe/Istanbul	TR	10/30/2015, 00:00:00	Bergama	39.12074	27.18052
+Europe/Berlin	DE	2024-09-02	Walsrode	52.86147	9.5926
+Africa/Monrovia	LR	2025/04/01	New Yekepa	7.57944	-8.53778
+Europe/Berlin	DE	2022/06/20	Nidderau	50.23805	8.86704
+Europe/Berlin	DE	01 Jan 2023	Burscheid	51.08468	7.11393
+America/New_York	US	08/20/2018, 00:00:00	Middle River	39.33427	-76.43941
+Asia/Kolkata	IN	06 Mar 2025	Diamond Harbour	22.19303	88.18466
+America/New_York	US	18 Sep 2016	East Haven	41.27621	-72.86843
+Europe/Warsaw	PL	01/05/2025, 00:00:00	Reda	54.60528	18.34717
+Europe/Berlin	DE	04/21/2023, 00:00:00	Korschenbroich	51.19139	6.51352
+Europe/Brussels	BE	2019-06-12	Gembloux	50.56149	4.69889
+America/Sao_Paulo	BR	11/09/2017, 00:00:00	Valinhos	-22.97056	-46.99583
+America/Argentina/Cordoba	AR	31 Jul 2019	Rafaela	-31.25033	-61.4867
+Europe/Istanbul	TR	14 Feb 2016	Yakuplu	40.98894	28.67582
+America/Mexico_City	MX	2019/02/27	Santa Rosa Jauregui	20.74122	-100.44843
+Europe/Paris	FR	23 Jul 2018	Saint-Omer	50.75	2.25
+Europe/Berlin	DE	2017-10-09	Schwalmtal	51.21667	6.26667
+America/Costa_Rica	CR	2016/05/09	San Rafael	9.92787	-84.13722
+Asia/Kolkata	IN	2018/07/06	Periyakulam	10.12268	77.54372
+Asia/Bangkok	TH	09/07/2025, 00:00:00	Kantharalak	14.64056	104.64992
+Europe/Madrid	ES	04/20/2017, 00:00:00	Baza	37.49073	-2.77259
+Asia/Karachi	PK	2021-11-26	Jhol	25.95533	68.88871
+America/Argentina/Cordoba	AR	2023-10-19	Esperanza	-31.4488	-60.93173
+Asia/Dili	TL	11/05/2016, 00:00:00	Maliana	-8.99167	125.21972
+America/Sao_Paulo	BR	2020/07/01	Itabirito	-20.25333	-43.80139
+Africa/Blantyre	MW	13 Jan 2018	Salima	-13.7804	34.4587
+Africa/Johannesburg	ZA	27 Feb 2020	Vryheid	-27.76952	30.79165
+Europe/Brussels	BE	02 Jul 2023	Beveren	51.21187	4.25633
+Africa/Blantyre	MW	22 Aug 2016	Salima	-13.7804	34.4587
+Africa/Nairobi	KE	15 Apr 2025	Busia	0.46005	34.11169
+Europe/Moscow	RU	2017-02-23	Zhukovka	53.53395	33.72798
+Australia/Sydney	AU	12 Jan 2023	Strathfield	-33.88096	151.07986
+Europe/Moscow	RU	02 Dec 2024	Petrozavodsk	61.78491	34.34691
+America/Havana	CU	07/17/2019, 00:00:00	Corralillo	22.98212	-80.58556
+Europe/Sofia	BG	11/17/2019, 00:00:00	Smolyan	41.57439	24.71204
+Europe/Moscow	RU	06/06/2024, 00:00:00	Novopavlovsk	43.96222	43.63417
+Europe/Paris	FR	2024-04-11	Quimper	48	-4.1
+Indian/Reunion	RE	12/03/2023, 00:00:00	Saint-Denis	-20.88231	55.4504
+Africa/Lubumbashi	CD	2019/01/01	Kamina	-8.73508	24.99798
+America/New_York	US	12/31/2023, 00:00:00	Norwalk	41.24255	-82.61573
+Pacific/Port_Moresby	PG	2019-04-26	Mount Hagen	-5.85746	144.23058
+Europe/Madrid	ES	01 Jun 2020	Gernika-Lumo	43.31667	-2.68333
+Asia/Manila	PH	07/16/2024, 00:00:00	Sorsogon	12.97389	123.99333
+Africa/Nairobi	KE	2024-06-23	Busia	0.46005	34.11169
+America/New_York	US	2020-03-06	Boston	42.35843	-71.05977
+Australia/Sydney	AU	11/17/2020, 00:00:00	Eastwood	-33.79176	151.08057
+Europe/Rome	IT	07 Sep 2023	Falconara Marittima	43.62558	13.39954
+Africa/Gaborone	BW	23 May 2025	Tonota	-21.44236	27.46153
+Europe/London	GB	2019-05-20	Walton-on-the-Naze	51.84819	1.26738
+Europe/Berlin	DE	2017/11/24	Schleswig	54.52156	9.5586
+Atlantic/Azores	PT	2021-03-27	Ponta Delgada	37.74615	-25.66689
+Pacific/Port_Moresby	PG	2017-03-26	Mount Hagen	-5.85746	144.23058
+America/New_York	US	08/07/2023, 00:00:00	Woodbridge	40.5576	-74.28459
+Asia/Shanghai	CN	2021-07-28	Beidao	34.56861	105.89333
+America/New_York	US	2019-05-13	Fitchburg	42.58342	-71.8023
+Africa/Cairo	EG	06 Nov 2016	Juhaynah	26.67319	31.4976
+Asia/Shanghai	CN	29 Jan 2021	Zhoucun	36.81667	117.81667
+Asia/Kolkata	IN	04 Oct 2015	Deoli	25.75728	75.37991
+Europe/Moscow	RU	2016-05-31	Danilov	58.1908	40.17171
+Africa/Casablanca	MA	08 Jun 2020	Temara	33.92866	-6.90656
+Asia/Shanghai	CN	07/28/2016, 00:00:00	Yanliang	34.65918	109.22921
+Africa/Freetown	SL	2022-03-17	Freetown	8.48714	-13.2356
+America/Los_Angeles	US	2017-11-22	Porterville	36.06523	-119.01677
+Asia/Kolkata	IN	11/12/2015, 00:00:00	Leteri	24.05979	77.40858
+America/New_York	US	2020/02/10	Middletown	41.54566	-71.29144
+America/Denver	US	2021-08-21	Kearns	40.65995	-111.99633
+America/New_York	US	04 Sep 2025	Malden	42.4251	-71.06616
+America/Indiana/Indianapolis	US	2017-11-22	Greenfield	39.78504	-85.76942
+Europe/Moscow	RU	2018/03/12	Likhobory	55.85	37.56667
+Europe/London	GB	03/14/2017, 00:00:00	Poulton-le-Fylde	53.83333	-2.98333
+America/Los_Angeles	US	04 Feb 2021	Camarillo	34.21639	-119.0376
+Europe/Zurich	CH	2016/04/13	Onex	46.18396	6.10237
+Europe/Sofia	BG	2024-12-24	Aytos	42.7	27.25
+Asia/Tokyo	JP	2020/11/19	Hakodate	41.77583	140.73667
+Asia/Kolkata	IN	19 May 2016	Davangere	14.46693	75.92694
+Asia/Makassar	ID	2022/08/12	Balikpapan	-1.26753	116.82887
+America/Mexico_City	MX	2016/06/09	Casa Blanca	19.04222	-98.11889
+Asia/Tashkent	UZ	2022/01/14	Andijon	40.78206	72.34424
+Europe/Berlin	DE	23 Mar 2018	Bad Segeberg	53.94313	10.30215
+Asia/Baku	AZ	2019/02/03	Astara	38.45598	48.87498
+Asia/Seoul	KR	08/05/2023, 00:00:00	Nonsan	36.20389	127.08472
+Europe/London	GB	2023/05/15	Winsford	53.19146	-2.52398
+Asia/Yekaterinburg	RU	2020/07/29	Kuvandyk	51.4781	57.3552
+America/Argentina/Ushuaia	AR	08/16/2023, 00:00:00	Ushuaia	-54.8	-68.3
+Europe/Moscow	RU	03/05/2022, 00:00:00	Zhukovka	53.53395	33.72798
+Europe/Rome	IT	2018-06-19	Somma Vesuviana	40.87329	14.43865
+Europe/Moscow	RU	13 Apr 2019	Yeysk	46.7055	38.2739
+Europe/Brussels	BE	2021-03-09	Denderleeuw	50.88506	4.07601
+Asia/Kuala_Lumpur	MY	2022-02-19	Gua Musang	4.88441	101.96857
+Asia/Kolkata	IN	2017-06-06	Chamba	32.55531	76.12647
+Europe/Prague	CZ	2016-08-05	Terezín	50.511002	14.150558
+Pacific/Honolulu	US	01 Oct 2024	Kahului	20.88953	-156.47432
+America/Los_Angeles	US	2015-10-05	Camarillo	34.21639	-119.0376
+America/Recife	BR	10/28/2015, 00:00:00	Recife	-8.05389	-34.88111
+Africa/Lagos	NG	12/11/2022, 00:00:00	Igbara-Odo	7.50251	5.06258
+America/Chicago	US	2019/08/13	Searcy	35.25064	-91.73625
+Europe/Moscow	RU	05/31/2023, 00:00:00	Naro-Fominsk	55.38752	36.73307
+Africa/Accra	GH	12 Jun 2022	Tarkwa	5.30383	-1.98956
+Asia/Tokyo	JP	2020-08-09	Yao	34.61667	135.6
+Africa/Douala	CM	01/24/2016, 00:00:00	Idenao	4.2475	9.00472
+Africa/Dar_es_Salaam	TZ	11/28/2018, 00:00:00	Mvomero	-6.25	38.66667
+Europe/Madrid	ES	07/22/2022, 00:00:00	Las Gabias	37.13548	-3.67029
+Africa/Nairobi	KE	2019/04/01	Busia	0.46005	34.11169
+Europe/London	GB	22 Oct 2016	Lower Earley	51.42708	-0.91979
+Europe/Warsaw	PL	01/03/2021, 00:00:00	Jaworzno	50.20528	19.27498
+America/Bahia	BR	14 Aug 2018	Rio Real	-11.48472	-37.93278
+Europe/Amsterdam	NL	12/24/2022, 00:00:00	Zeist	52.09	5.23333
+America/Caracas	VE	2021-01-24	La Victoria	10.22677	-67.33122
+Europe/Berlin	DE	2018-01-26	Finnentrop	51.168	7.973
+Asia/Kolkata	IN	2023/12/07	Robertsonpet	12.95629	78.27539
+Africa/Dar_es_Salaam	TZ	2018/12/10	Magomeni	-6.8	39.25
+Africa/Nairobi	KE	05/13/2017, 00:00:00	Busia	0.46005	34.11169
+Europe/Rome	IT	22 Jan 2021	Novara	45.44694	8.62118
+Europe/Berlin	DE	09 Feb 2021	Gifhorn	52.47774	10.5511
+Asia/Tehran	IR	06/14/2022, 00:00:00	Nowshahr	36.64852	51.49621
+Europe/Bucharest	RO	2016/02/01	Sector 6	44.43579	26.01649
+Asia/Kolkata	IN	08/07/2016, 00:00:00	Rangia	26.44931	91.61356
+Africa/Tunis	TN	2016/12/14	Msaken	35.72917	10.58082
+America/Toronto	CA	2018/10/11	Norfolk County	42.8334	-80.38297
+America/Sao_Paulo	BR	06/28/2021, 00:00:00	Marau	-28.44917	-52.2
+America/New_York	US	25 Mar 2022	Clermont	28.54944	-81.77285
+Australia/Melbourne	AU	2021/05/06	Frankston South	-38.16604	145.13643
+Asia/Kolkata	IN	29 Nov 2020	Adra	23.49668	86.68363
+Asia/Kolkata	IN	16 Jul 2019	Hungund	16.06213	76.0586
+America/Puerto_Rico	PR	2019-08-03	Aguadilla	18.42745	-67.15407
+Asia/Krasnoyarsk	RU	2023/09/19	Sharypovo	55.54028	89.20083
+Asia/Qyzylorda	KZ	2019/11/29	Kyzylorda	44.85278	65.50917
+Europe/Madrid	ES	2022/09/23	Ferrol	43.48961	-8.2194
+Europe/Berlin	DE	09/08/2016, 00:00:00	Bensheim	49.68369	8.61839
+Asia/Karachi	PK	06/01/2023, 00:00:00	Jhol	25.95533	68.88871
+Europe/Zagreb	HR	2018-01-05	Split	43.50891	16.43915
+Asia/Kolkata	IN	2016-09-17	Tiruppuvanam	9.82564	78.25795
+America/Matamoros	MX	24 Apr 2017	Heroica Matamoros	25.87972	-97.50417
+America/New_York	US	2021-07-08	Dumont	40.94065	-73.99681
+America/Caracas	VE	03/14/2023, 00:00:00	La Victoria	10.22677	-67.33122
+America/Mexico_City	MX	23 Aug 2017	Paracho de Verduzco	19.64745	-102.04897
+Asia/Tokyo	JP	2022/01/23	Inawashiro	37.56667	140.11667
+America/Chicago	US	2022-01-01	Coralville	41.6764	-91.58045
+Europe/London	GB	11 Mar 2017	Belper	53.0233	-1.48119
+Asia/Manila	PH	28 Apr 2025	Jagna	9.6531	124.3697
+Asia/Yekaterinburg	RU	04 Apr 2017	Lesnoy	58.63667	59.80222
+America/Sao_Paulo	BR	12/04/2024, 00:00:00	Alfenas	-21.42917	-45.94722
+America/Sao_Paulo	BR	2023-08-24	Itabirito	-20.25333	-43.80139
+America/Cuiaba	BR	2016/09/26	Nova Xavantina	-14.66463	-52.35558
+Asia/Aden	YE	2018/11/20	Ataq	14.53767	46.83187
+Europe/Moscow	RU	01/24/2016, 00:00:00	Bogoroditsk	53.77166	38.12408
+America/Sao_Paulo	BR	2024/03/07	Alfenas	-21.42917	-45.94722
+Europe/Moscow	RU	2025-03-02	Solntsevo	55.63711	37.38115
+Europe/Sofia	BG	07/26/2022, 00:00:00	Montana	43.4125	23.225
+America/Port-au-Prince	HT	2025/04/01	Thomazeau	18.65297	-72.09391
+Asia/Manila	PH	2015/10/27	Tupi	6.33444	124.95278
+America/New_York	US	07/11/2016, 00:00:00	Dumont	40.94065	-73.99681
+America/Mexico_City	MX	2019-10-20	Zacoalco de Torres	20.22816	-103.5687
+Asia/Jakarta	ID	10/09/2020, 00:00:00	Ngemplak	-7.54972	110.71639
+America/Los_Angeles	US	28 Jul 2020	American Canyon	38.17492	-122.2608
+Asia/Yangon	MM	08/12/2020, 00:00:00	Myawadi	16.68911	98.50893
+America/Santiago	CL	2017-07-24	La Ligua	-32.45242	-71.23106
+Europe/Rome	IT	2017/07/30	Misterbianco	37.51803	15.00913
+America/Lima	PE	2016-05-28	Minas de Marcona	-15.21194	-75.11028
+Europe/London	GB	2021/02/20	Walton-on-the-Naze	51.84819	1.26738
+America/Lima	PE	12/17/2018, 00:00:00	Yunguyo	-16.25	-69.08333
+America/Los_Angeles	US	2020/03/10	Opportunity	47.64995	-117.23991
+Pacific/Honolulu	US	07/03/2018, 00:00:00	Kahului	20.88953	-156.47432
+America/Los_Angeles	US	2021-05-23	Indio	33.7207	-116.21677
+America/Chicago	US	2024-10-18	Westchester	41.85059	-87.882
+America/Chicago	US	2019-11-13	Lower West Side	41.8542	-87.66561
+Europe/Madrid	ES	24 Aug 2021	Segundo Ensanche	42.8139	-1.64295
+Europe/Berlin	DE	04/02/2024, 00:00:00	Albstadt	48.21644	9.02596
+America/Chicago	US	2022-02-22	Lower West Side	41.8542	-87.66561
+America/New_York	US	2018-03-26	New Canaan	41.14676	-73.49484
+Europe/Istanbul	TR	03 Dec 2021	Yakuplu	40.98894	28.67582
+Africa/Casablanca	MA	07/03/2021, 00:00:00	Jerada	34.31	-2.16
+America/Santiago	CL	2025/05/28	Ovalle	-30.60106	-71.19901
+Europe/Helsinki	FI	22 Aug 2020	Espoo	60.2052	24.6522
+America/Sao_Paulo	BR	2024-01-05	Palmeira	-25.42944	-50.00639
+Europe/Madrid	ES	01 May 2023	Ferrol	43.48961	-8.2194
+America/Chicago	US	2019/06/07	Fairview Heights	38.58894	-89.99038
+America/Sao_Paulo	BR	2016-01-03	Carlos Barbosa	-29.2975	-51.50361
+America/Los_Angeles	US	05 Jan 2019	Riverbank	37.73604	-120.93549
+Europe/Minsk	BY	2020/10/24	Novogrudok	53.5942	25.8191
+Africa/Algiers	DZ	2023-07-22	El Achir	36.06386	4.62744
+Europe/Saratov	RU	2022-11-02	Privolzhskiy	51.40944	46.04833
+Asia/Kolkata	IN	2016-10-17	Kheda	22.75218	72.68533
+Europe/London	GB	2015-10-09	Barnet	51.65	-0.2
+America/Panama	PA	2019-01-11	Veracruz	8.88988	-79.62603
+Europe/London	GB	05 Dec 2022	Penzance	50.11861	-5.53715
+Asia/Shanghai	CN	11 Mar 2019	Pingyi	35.50056	117.63083
+America/New_York	US	14 Jul 2016	Milledgeville	33.08014	-83.2321
+Asia/Shanghai	CN	12 Jan 2021	Yanliang	34.65918	109.22921
+America/Santo_Domingo	DO	2024/01/04	Santa Cruz de Barahona	18.20854	-71.10077
+Pacific/Honolulu	US	2017-04-26	Kahului	20.88953	-156.47432
+Europe/Rome	IT	2022/09/09	Castelfranco Emilia	44.59445	11.04979
+America/Bogota	CO	2021/04/15	San Carlos	8.79577	-75.69947
+America/Los_Angeles	US	11/03/2023, 00:00:00	Palm Desert	33.72255	-116.37697
+Africa/Accra	GH	12/26/2023, 00:00:00	Mampong	7.06273	-1.4001
+Africa/Freetown	SL	2016/10/23	Freetown	8.48714	-13.2356
+Asia/Tokyo	JP	2024-11-13	Komono	35	136.51667
+Europe/Madrid	ES	05/14/2018, 00:00:00	Reus	41.15612	1.10687
+America/Los_Angeles	US	2021-11-05	Troutdale	45.53929	-122.38731
+Asia/Kolkata	IN	2025-08-21	Chharra	27.9247	78.40102
+Europe/Rome	IT	2019-07-29	Ragusa	36.92574	14.72443
+Europe/Zurich	CH	07/22/2024, 00:00:00	Adliswil	47.30997	8.52462
+Asia/Jakarta	ID	01/29/2019, 00:00:00	Pameungpeuk	-7.01833	107.60389
+Asia/Kolkata	IN	04/18/2023, 00:00:00	Kheda	22.75218	72.68533
+Asia/Kolkata	IN	02/06/2023, 00:00:00	Diamond Harbour	22.19303	88.18466
+Europe/Berlin	DE	2017/08/06	Bad Honnef	50.64336	7.2278
+America/New_York	US	2018/04/03	Taunton	41.9001	-71.08977
+Asia/Kuala_Lumpur	MY	2020/03/06	Kulai	1.6561	103.6032
+Asia/Yerevan	AM	2023/09/15	Hrazdan	40.49748	44.7662
+America/Merida	MX	2020/06/05	Progreso	21.28306	-89.66123
+Europe/London	GB	26 Feb 2021	Walton-on-the-Naze	51.84819	1.26738
+Europe/Amsterdam	NL	2018/05/18	Hardenberg	52.57583	6.61944
+Europe/Rome	IT	2018-06-09	Misterbianco	37.51803	15.00913
+Asia/Kolkata	IN	2021-10-24	Periyakulam	10.12268	77.54372
+Europe/Warsaw	PL	2016/11/06	Zgorzelec	51.14942	15.00835
+Europe/Paris	FR	01/26/2019, 00:00:00	Dax	43.71032	-1.05366
+America/Toronto	CA	2024/12/02	Norfolk County	42.8334	-80.38297
+Europe/Volgograd	RU	05/22/2019, 00:00:00	Mikhaylovka	50.06	43.2379
+Africa/Johannesburg	ZA	09/20/2022, 00:00:00	Mokopane	-24.19436	29.00974
+Asia/Shanghai	CN	01 Aug 2019	Ulanhot	46.08333	122.08333
+Asia/Shanghai	CN	2017/02/26	Changzhi	35.20889	111.73861
+America/Chicago	US	22 Feb 2016	New City	41.80753	-87.65644
+Europe/Prague	CZ	05 Jul 2018	Ostrava	49.820923	18.262524
+Asia/Kolkata	IN	2021/07/31	Hungund	16.06213	76.0586
+America/Costa_Rica	CR	07/04/2024, 00:00:00	San Rafael	9.92787	-84.13722
+Asia/Manila	PH	2019/08/12	Santa Catalina	9.3337	122.8637
+Africa/Lagos	NG	05/18/2023, 00:00:00	Igbara-Odo	7.50251	5.06258
+America/Toronto	CA	12/22/2017, 00:00:00	Pointe-Claire	45.44868	-73.81669
+America/Denver	US	07/24/2017, 00:00:00	Ken Caryl	39.57582	-105.11221
+Europe/Paris	FR	2018/12/29	Gonesse	48.98693	2.44892
+America/Matamoros	MX	29 Nov 2024	Heroica Matamoros	25.87972	-97.50417
+Europe/Kyiv	UA	2018-05-22	Hlukhiv	51.67822	33.9162
+Europe/Berlin	DE	2024/08/05	Bretten	49.03685	8.70745
+Asia/Krasnoyarsk	RU	2021/11/15	Sharypovo	55.54028	89.20083
+Australia/Melbourne	AU	2018/05/29	Wheelers Hill	-37.9	145.18333
+America/Recife	BR	2022-05-01	Cabo	-8.28333	-35.03333
+America/New_York	US	04/08/2019, 00:00:00	Norwalk	41.24255	-82.61573
+America/Mexico_City	MX	2016/09/11	Tuxtla	16.75973	-93.11308
+Asia/Yekaterinburg	RU	08/10/2018, 00:00:00	Ishim	56.11281	69.49015
+Asia/Bangkok	TH	2016/07/22	Damnoen Saduak	13.51825	99.95469
+Asia/Kolkata	IN	2017-02-14	Kheda	22.75218	72.68533
+America/New_York	US	21 Mar 2019	Far Rockaway	40.60538	-73.75513
+Asia/Kolkata	IN	14 Apr 2023	Rafiganj	24.81757	84.63445
+Atlantic/Azores	PT	2023-09-13	Ponta Delgada	37.74615	-25.66689
+Pacific/Port_Moresby	PG	2016/12/22	Mount Hagen	-5.85746	144.23058
+Europe/Zaporozhye	UA	2022-09-03	Svatove	49.41029	38.15035
+Asia/Kolkata	IN	05/10/2023, 00:00:00	Moga	30.81383	75.16878
+Asia/Kolkata	IN	2021-10-03	Leteri	24.05979	77.40858
+America/Los_Angeles	US	2016-01-04	Lompoc	34.63915	-120.45794
+America/New_York	US	2021-06-28	Port Richmond	40.63316	-74.13653
+Asia/Karachi	PK	2020/07/02	Hasilpur	29.69221	72.54566
+Europe/Paris	FR	07/06/2023, 00:00:00	Marly-le-Roi	48.86667	2.08333
+Asia/Jerusalem	IL	2016-11-15	Ramla	31.92923	34.86563
+America/Sao_Paulo	BR	25 Jan 2018	Carlos Barbosa	-29.2975	-51.50361
+Asia/Shanghai	CN	22 Aug 2024	Changzhi	35.20889	111.73861
+Asia/Tokyo	JP	19 Oct 2021	Shimotoda	35.815	139.6853
+Europe/Moscow	RU	08 Sep 2017	Tyoply Stan	55.62047	37.49338
+Europe/Madrid	ES	05/04/2024, 00:00:00	Gandia	38.96667	-0.18333
+Africa/Johannesburg	ZA	08/13/2019, 00:00:00	Standerton	-26.93366	29.24152
+America/Havana	CU	18 Feb 2024	Varadero	23.15678	-81.24441
+America/Mazatlan	MX	31 Mar 2018	Acaponeta	22.49396	-105.36369
+Africa/Lubumbashi	CD	2020/03/18	Kamina	-8.73508	24.99798
+Asia/Manila	PH	2023/07/23	Calauan	14.14989	121.3152
+Africa/Tunis	TN	2020-08-26	Beni Khiar	36.46917	10.78222
+America/Edmonton	CA	09/25/2022, 00:00:00	Sherwood Park	53.51684	-113.3187
+Asia/Tehran	IR	12/02/2021, 00:00:00	Darreh Shahr	33.14447	47.3799
+Europe/Bratislava	SK	2025-01-14	Hlohovec	48.43174	17.8031
+America/Argentina/Ushuaia	AR	2018-10-30	Ushuaia	-54.8	-68.3
+America/New_York	US	06/06/2019, 00:00:00	Malden	42.4251	-71.06616
+Asia/Jakarta	ID	2022/03/17	Besuki	-7.73379	113.69785
+Europe/Kyiv	UA	01/14/2019, 00:00:00	Nova Kakhovka	46.75451	33.34864
+America/New_York	US	12/15/2016, 00:00:00	Scarsdale	41.0051	-73.78458
+America/Menominee	US	03 Oct 2023	Iron River	46.09273	-88.64235
+Asia/Bangkok	TH	2018/03/07	Thap Than	15.46063	99.89166
+Europe/Berlin	DE	2024-01-28	Nidderau	50.23805	8.86704
+Asia/Shanghai	CN	2019-01-26	Changzhi	35.20889	111.73861
+Europe/Berlin	DE	2019/11/27	Korschenbroich	51.19139	6.51352
+Europe/Paris	FR	2024/03/07	Gonesse	48.98693	2.44892
+America/Los_Angeles	US	2025/01/09	Palm Desert	33.72255	-116.37697
+America/Boise	US	02/12/2025, 00:00:00	Nampa	43.54072	-116.56346
+America/Los_Angeles	US	27 Feb 2021	Opportunity	47.64995	-117.23991
+Europe/Belgrade	RS	28 Feb 2023	Sremska Mitrovica	44.97639	19.61222

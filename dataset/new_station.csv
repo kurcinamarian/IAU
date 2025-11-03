@@ -1,0 +1,520 @@
+,station_id,station,code,continent,city,latitude,longitude
+0,0,San Juan de Aznalfarache,ES,Europe,Madrid,37.35813,-6.03731
+1,1,Villa del Rosario,CO,America,Bogota,7.83389,-72.47417
+2,2,Rangia,IN,Asia,Kolkata,26.44931,91.61356
+3,3,Rolla,US,America,Chicago,37.95143,-91.77127
+4,4,Albstadt,DE,Europe,Berlin,48.21644,9.02596
+5,5,Culemborg,NL,Europe,Amsterdam,51.955,5.22778
+6,6,Gembloux,BE,Europe,Brussels,50.56149,4.69889
+7,7,Boston,US,America,New_York,42.35843,-71.05977
+8,8,Fujioka,JP,Asia,Tokyo,36.24624,139.07204
+9,9,Sherwood Park,CA,America,Edmonton,53.51684,-113.3187
+10,10,Antanifotsy,MG,Indian,Antananarivo,-19.65,47.31667
+11,11,Tebingtinggi,ID,Asia,Jakarta,3.3285,99.1625
+12,12,East Dereham,GB,Europe,London,52.68333,0.93333
+13,13,Beveren,BE,Europe,Brussels,51.21187,4.25633
+14,14,Saint-Omer,FR,Europe,Paris,50.75,2.25
+15,15,Chamba,IN,Asia,Kolkata,32.55531,76.12647
+16,16,Fort Washington,US,America,New_York,38.70734,-77.02303
+17,17,Tupelo,US,America,Chicago,34.25807,-88.70464
+18,18,Bua Yai,TH,Asia,Bangkok,15.58552,102.42587
+19,19,Calauan,PH,Asia,Manila,14.14989,121.3152
+20,20,Gandia,ES,Europe,Madrid,38.96667,-0.18333
+21,21,Motomachi,JP,Asia,Tokyo,43.82634,144.09638
+22,22,Gajendragarh,IN,Asia,Kolkata,15.73628,75.96976
+23,23,Yamada,JP,Asia,Tokyo,39.46667,141.95
+24,24,Sirsi,IN,Asia,Kolkata,14.62072,74.83554
+25,25,Elamanchili,IN,Asia,Kolkata,17.54907,82.85749
+26,26,Namerikawa,JP,Asia,Tokyo,36.75965,137.36215
+27,27,Ukmerge,LT,Europe,Vilnius,55.25,24.75
+28,28,Fontenay-aux-Roses,FR,Europe,Paris,48.79325,2.29275
+29,29,Wheelers Hill,AU,Australia,Melbourne,-37.9,145.18333
+30,30,Marseille 11,FR,Europe,Paris,43.2907,5.4384
+31,31,Tupiza,BO,America,La_Paz,-21.44345,-65.71875
+32,32,Camarillo,US,America,Los_Angeles,34.21639,-119.0376
+33,33,Hoxtolgay,CN,Asia,Urumqi,46.51872,86.00214
+34,34,Frankston South,AU,Australia,Melbourne,-38.16604,145.13643
+35,35,Barnet,GB,Europe,London,51.65,-0.2
+36,36,Jerada,MA,Africa,Casablanca,34.31,-2.16
+37,37,Port Huron,US,America,Detroit,42.97086,-82.42491
+38,38,Surbiton,GB,Europe,London,51.39148,-0.29825
+39,39,Oktyabr‚Äôskiy,RU,Asia,Yekaterinburg,54.48147,53.47103
+40,40,Chacabuco,AR,America,Argentina/Buenos_Aires,-34.64167,-60.47389
+41,41,Copperas Cove,US,America,Chicago,31.12406,-97.90308
+42,42,Indio,US,America,Los_Angeles,33.7207,-116.21677
+43,43,Liaoyang,CN,Asia,Shanghai,41.27194,123.17306
+44,44,Landshut,DE,Europe,Berlin,48.52961,12.16179
+45,45,Willetton,AU,Australia,Perth,-32.05251,115.88782
+46,46,Hermsdorf,DE,Europe,Berlin,52.61131,13.31783
+47,47,Jumilla,ES,Europe,Madrid,38.47917,-1.325
+48,48,Odessa,US,America,Chicago,31.84568,-102.36764
+49,49,Tupi,PH,Asia,Manila,6.33444,124.95278
+50,50,Newburgh,US,America,New_York,41.50343,-74.01042
+51,51,Cebu City,PH,Asia,Manila,10.31672,123.89071
+52,52,Iwade,JP,Asia,Tokyo,34.25,135.31667
+53,53,Westbury,GB,Europe,London,51.26,-2.1875
+54,54,West Des Moines,US,America,Chicago,41.57721,-93.71133
+55,55,Mardin,TR,Europe,Istanbul,37.31309,40.74357
+56,56,Tchaourou,BJ,Africa,Porto-Novo,8.88649,2.59753
+57,57,Hrazdan,AM,Asia,Yerevan,40.49748,44.7662
+58,58,High Wycombe,GB,Europe,London,51.62907,-0.74934
+59,59,Kachkanar,RU,Asia,Yekaterinburg,58.7002,59.4839
+60,60,Malakhovka,RU,Europe,Moscow,55.64776,38.02486
+61,61,Naga,PH,Asia,Manila,10.20898,123.758
+62,62,Fairview Heights,US,America,Chicago,38.58894,-89.99038
+63,63,Telč,CZ,Europe,Prague,49.183239,15.454273
+64,64,Maryborough,AU,Australia,Brisbane,-25.54073,152.70493
+65,65,Dobrush,BY,Europe,Minsk,52.4089,31.3237
+66,66,Port Richmond,US,America,New_York,40.63316,-74.13653
+67,67,Esmeraldas,BR,America,Sao_Paulo,-19.7625,-44.31389
+68,68,Busia,KE,Africa,Nairobi,0.46005,34.11169
+69,69,South Lawndale,US,America,Chicago,41.84364,-87.71255
+70,70,Colomiers,FR,Europe,Paris,43.61058,1.33467
+71,71,Palm Desert,US,America,Los_Angeles,33.72255,-116.37697
+72,72,Rixensart,BE,Europe,Brussels,50.71229,4.52529
+73,73,Selby,GB,Europe,London,53.78333,-1.06667
+74,74,Guli,CN,Asia,Shanghai,28.88162,120.03308
+75,75,Pameungpeuk,ID,Asia,Jakarta,-7.01833,107.60389
+76,76,Keizer,US,America,Los_Angeles,44.99012,-123.02621
+77,77,Zacoalco de Torres,MX,America,Mexico_City,20.22816,-103.5687
+78,78,Tyoply Stan,RU,Europe,Moscow,55.62047,37.49338
+79,79,Estelle,US,America,Chicago,29.84576,-90.10674
+80,80,Kati,ML,Africa,Bamako,12.74409,-8.07257
+81,81,Fresno,US,America,Chicago,29.53885,-95.44744
+82,82,Bron,FR,Europe,Paris,45.73333,4.91667
+83,83,Lompoc,US,America,Los_Angeles,34.63915,-120.45794
+84,84,South Whittier,US,America,Los_Angeles,33.95015,-118.03917
+85,85,Praha,CZ,Europe,Prague,50.073658,14.41854
+86,86,Boo,SE,Europe,Stockholm,59.33333,18.28333
+87,87,Siegburg,DE,Europe,Berlin,50.80019,7.20769
+88,88,Hardenberg,NL,Europe,Amsterdam,52.57583,6.61944
+89,89,Poulton-le-Fylde,GB,Europe,London,53.83333,-2.98333
+90,90,Hungund,IN,Asia,Kolkata,16.06213,76.0586
+91,91,Kent,US,America,Los_Angeles,47.38093,-122.23484
+92,92,Nkpor,NG,Africa,Lagos,6.15038,6.83042
+93,93,Burgos,PH,Asia,Manila,15.72892,120.57224
+94,94,Weimar,DE,Europe,Berlin,50.9803,11.32903
+95,95,Soure,BR,America,Belem,-0.71667,-48.52333
+96,96,Minas de Marcona,PE,America,Lima,-15.21194,-75.11028
+97,97,Komono,JP,Asia,Tokyo,35.0,136.51667
+98,98,Gainsborough,GB,Europe,London,53.38333,-0.76667
+99,99,Donggongon,MY,Asia,Kuching,5.90702,116.10146
+100,100,Talipparamba,IN,Asia,Kolkata,12.04161,75.35927
+101,101,Majene,ID,Asia,Makassar,-3.5403,118.9707
+102,102,Masbate,PH,Asia,Manila,12.37169,123.62494
+103,103,Varadero,CU,America,Havana,23.15678,-81.24441
+104,104,Zhukovka,RU,Europe,Moscow,53.53395,33.72798
+105,105,Zhuangyuan,CN,Asia,Shanghai,37.30553,120.82747
+106,106,Ushuaia,AR,America,Argentina/Ushuaia,-54.8,-68.3
+107,107,Otradnyy,RU,Europe,Samara,53.37596,51.3452
+108,108,Otegen Batyra,KZ,Asia,Almaty,43.41949,77.0202
+109,109,Jackson,US,America,Chicago,35.61452,-88.81395
+110,110,Malnate,IT,Europe,Rome,45.79377,8.88104
+111,111,Cibinong,ID,Asia,Jakarta,-6.48167,106.85417
+112,112,Cardedeu,ES,Europe,Madrid,41.63976,2.35739
+113,113,Huangshi,CN,Asia,Shanghai,30.24706,115.04814
+114,114,Bisceglie,IT,Europe,Rome,41.24264,16.50104
+115,115,La Victoria,VE,America,Caracas,10.22677,-67.33122
+116,116,Ishim,RU,Asia,Yekaterinburg,56.11281,69.49015
+117,117,Naro-Fominsk,RU,Europe,Moscow,55.38752,36.73307
+118,118,Beaconsfield,CA,America,Toronto,45.43341,-73.86586
+119,119,Croix-des-Bouquets,HT,America,Port-au-Prince,18.57677,-72.22625
+120,120,Jaruco,CU,America,Havana,23.04419,-82.00919
+121,121,Voznesensk,UA,Europe,Kyiv,47.56494,31.33078
+122,122,Kafanchan,NG,Africa,Lagos,9.58126,8.2926
+123,123,Msaken,TN,Africa,Tunis,35.72917,10.58082
+124,124,Olanchito,HN,America,Tegucigalpa,15.48131,-86.57415
+125,125,Sarandi,BR,America,Sao_Paulo,-23.44361,-51.87389
+126,126,Brunswick,US,America,New_York,43.91452,-69.96533
+127,127,Ulan-Ude,RU,Asia,Irkutsk,51.82721,107.60627
+128,128,Sydney,CA,America,Glace_Bay,46.1351,-60.1831
+129,129,Marly-le-Roi,FR,Europe,Paris,48.86667,2.08333
+130,130,Adliswil,CH,Europe,Zurich,47.30997,8.52462
+131,131,Jocotepec,MX,America,Mexico_City,20.28527,-103.42897
+132,132,Brenham,US,America,Chicago,30.16688,-96.39774
+133,133,Sharypovo,RU,Asia,Krasnoyarsk,55.54028,89.20083
+134,134,Montecchio Maggiore-Alte Ceccato,IT,Europe,Rome,45.50369,11.412
+135,135,Bourbonnais,US,America,Chicago,41.15376,-87.88754
+136,136,Campobasso,IT,Europe,Rome,41.55947,14.66737
+137,137,Kenda,IN,Asia,Kolkata,23.1959,86.51499
+138,138,Denderleeuw,BE,Europe,Brussels,50.88506,4.07601
+139,139,Gifhorn,DE,Europe,Berlin,52.47774,10.5511
+140,140,Dorval,CA,America,Toronto,45.4473,-73.75335
+141,141,Ulu Tiram,MY,Asia,Kuala_Lumpur,1.6,103.81667
+142,142,Maxixe,MZ,Africa,Maputo,-23.85972,35.34722
+143,143,Toba,JP,Asia,Tokyo,34.4833,136.84186
+144,144,Jindřichův Hradec,CZ,Europe,Prague,49.144482,15.006139
+145,145,Bad Segeberg,DE,Europe,Berlin,53.94313,10.30215
+146,146,Baliuag,PH,Asia,Manila,14.95472,120.89694
+147,147,Sar-e Pul,AF,Asia,Kabul,36.21544,65.93249
+148,148,El Alia,TN,Africa,Tunis,37.16911,10.03478
+149,149,New Yekepa,LR,Africa,Monrovia,7.57944,-8.53778
+150,150,Aguadilla,PR,America,Puerto_Rico,18.42745,-67.15407
+151,151,Udumalaippettai,IN,Asia,Kolkata,10.58806,77.24779
+152,152,Kyzylorda,KZ,Asia,Qyzylorda,44.85278,65.50917
+153,153,Sasayama,JP,Asia,Tokyo,35.06667,135.21667
+154,154,Okahandja,NA,Africa,Windhoek,-21.98333,16.91667
+155,155,Ostrava,CZ,Europe,Prague,49.820923,18.262524
+156,156,Fazilpur,PK,Asia,Karachi,32.17629,75.06583
+157,157,Marau,BR,America,Sao_Paulo,-28.44917,-52.2
+158,158,Pointe-Claire,CA,America,Toronto,45.44868,-73.81669
+159,159,Sicklerville,US,America,New_York,39.71734,-74.96933
+160,160,Jersey City,US,America,New_York,40.72816,-74.07764
+161,161,Dublin,US,America,New_York,32.54044,-82.90375
+162,162,Oberhausen,DE,Europe,Berlin,51.47805,6.8625
+163,163,Radevormwald,DE,Europe,Berlin,51.20219,7.36027
+164,164,Recodo,PH,Asia,Manila,6.95194,121.96361
+165,165,Pleasant Prairie,US,America,Chicago,42.55308,-87.93341
+166,166,Lutz,US,America,New_York,28.15112,-82.46148
+167,167,Rafaela,AR,America,Argentina/Cordoba,-31.25033,-61.4867
+168,168,Gaziantep,TR,Europe,Istanbul,37.05944,37.3825
+169,169,Lakota,CI,Africa,Abidjan,5.84752,-5.682
+170,170,Thetford,GB,Europe,London,52.41667,0.75
+171,171,Finnentrop,DE,Europe,Berlin,51.168,7.973
+172,172,Xiangtan,CN,Asia,Shanghai,27.85,112.9
+173,173,Korschenbroich,DE,Europe,Berlin,51.19139,6.51352
+174,174,Keene,US,America,New_York,42.93369,-72.27814
+175,175,Lagarto,BR,America,Maceio,-10.91722,-37.65
+176,176,Kuvandyk,RU,Asia,Yekaterinburg,51.4781,57.3552
+177,177,Chiavari,IT,Europe,Rome,44.31771,9.32241
+178,178,Nakhon Si Thammarat,TH,Asia,Bangkok,8.43333,99.96667
+179,179,Barneveld,NL,Europe,Amsterdam,52.14,5.58472
+180,180,Siliana,TN,Africa,Tunis,36.08497,9.37082
+181,181,Gorgonzola,IT,Europe,Rome,45.53069,9.40531
+182,182,Pfullingen,DE,Europe,Berlin,48.46458,9.22796
+183,183,Sambalpur,IN,Asia,Kolkata,21.46527,83.97573
+184,184,Daud Khel,PK,Asia,Karachi,32.87533,71.57118
+185,185,Gingee,IN,Asia,Kolkata,12.25282,79.41727
+186,186,Sector 6,RO,Europe,Bucharest,44.43579,26.01649
+187,187,Ar Ruseris,SD,Africa,Khartoum,11.8659,34.3869
+188,188,Guapimirim,BR,America,Sao_Paulo,-22.53722,-42.98194
+189,189,Aistala,IN,Asia,Kolkata,23.18,88.58
+190,190,Soledade,BR,America,Sao_Paulo,-28.81833,-52.51028
+191,191,Durazno,UY,America,Montevideo,-33.38056,-56.52361
+192,192,Nowra,AU,Australia,Sydney,-34.88422,150.60036
+193,193,Labuhan Deli,ID,Asia,Jakarta,3.7278,98.6738
+194,194,Palmeira,BR,America,Sao_Paulo,-25.42944,-50.00639
+195,195,Amreli,IN,Asia,Kolkata,21.59983,71.21169
+196,196,Yonkers,US,America,New_York,40.93121,-73.89875
+197,197,Cavaillon,FR,Europe,Paris,43.83125,5.03586
+198,198,Yanliang,CN,Asia,Shanghai,34.65918,109.22921
+199,199,Foshan,CN,Asia,Shanghai,23.02677,113.13148
+200,200,Viewpark,GB,Europe,London,55.82737,-4.0573
+201,201,Greenfield,US,America,Indiana/Indianapolis,39.78504,-85.76942
+202,202,Scotch Plains,US,America,New_York,40.65538,-74.38987
+203,203,Hutchinson,US,America,Chicago,38.06084,-97.92977
+204,204,Yunguyo,PE,America,Lima,-16.25,-69.08333
+205,205,Talavera de la Reina,ES,Europe,Madrid,39.96348,-4.83076
+206,206,El Achir,DZ,Africa,Algiers,36.06386,4.62744
+207,207,Cheraga,DZ,Africa,Algiers,36.76775,2.95924
+208,208,Tarkwa,GH,Africa,Accra,5.30383,-1.98956
+209,209,Niort,FR,Europe,Paris,46.32313,-0.45877
+210,210,České Budějovice,CZ,Europe,Prague,48.975658,14.480255
+211,211,Milledgeville,US,America,New_York,33.08014,-83.2321
+212,212,Shalqar,KZ,Asia,Aqtobe,47.83333,59.6
+213,213,Port-Vila,VU,Pacific,Efate,-17.73648,168.31366
+214,214,Tak Bai,TH,Asia,Bangkok,6.25947,102.05461
+215,215,Harrisburg,US,America,New_York,40.2737,-76.88442
+216,216,Tornio,FI,Europe,Helsinki,65.84811,24.14662
+217,217,Villabate,IT,Europe,Rome,38.07789,13.44275
+218,218,Rudolstadt,DE,Europe,Berlin,50.72043,11.34046
+219,219,Santa Maria,US,America,Los_Angeles,34.95303,-120.43572
+220,220,Gero,JP,Asia,Tokyo,35.8,137.23333
+221,221,Heyuan,CN,Asia,Shanghai,23.73333,114.68333
+222,222,Acaponeta,MX,America,Mazatlan,22.49396,-105.36369
+223,223,Grand Forks,US,America,Chicago,47.92526,-97.03285
+224,224,Tandil,AR,America,Argentina/Buenos_Aires,-37.32167,-59.13316
+225,225,Ganei Tikva,IL,Asia,Jerusalem,32.05971,34.8732
+226,226,Palm Valley,US,America,New_York,30.17746,-81.38758
+227,227,Viradouro,BR,America,Sao_Paulo,-20.87306,-48.29694
+228,228,Vernon,CA,America,Vancouver,50.26729,-119.27337
+229,229,Split,HR,Europe,Zagreb,43.50891,16.43915
+230,230,San Bernardo,CL,America,Santiago,-33.59217,-70.6996
+231,231,Rueil-Malmaison,FR,Europe,Paris,48.8765,2.18967
+232,232,Hueytown,US,America,Chicago,33.45122,-86.99666
+233,233,Somoto,NI,America,Managua,13.48082,-86.58208
+234,234,Periyakulam,IN,Asia,Kolkata,10.12268,77.54372
+235,235,Bang Ban,TH,Asia,Bangkok,14.37395,100.48528
+236,236,Thap Than,TH,Asia,Bangkok,15.46063,99.89166
+237,237,Strzelce Opolskie,PL,Europe,Warsaw,50.5107,18.30056
+238,238,Aberdeen,GB,Europe,London,57.14369,-2.09814
+239,239,Vestavia Hills,US,America,Chicago,33.44872,-86.78777
+240,240,Mouscron,BE,Europe,Brussels,50.74497,3.20639
+241,241,Rutland,US,America,New_York,43.61062,-72.97261
+242,242,Grenville,GD,America,Grenada,12.12278,-61.62498
+243,243,Tongelre,NL,Europe,Amsterdam,51.44889,5.51978
+244,244,Tharu Shah,PK,Asia,Karachi,26.9423,68.11759
+245,245,Osmanabad,IN,Asia,Kolkata,18.18158,76.03889
+246,246,Lexington,US,America,New_York,33.98154,-81.23621
+247,247,Veracruz,PA,America,Panama,8.88988,-79.62603
+248,248,Bensheim,DE,Europe,Berlin,49.68369,8.61839
+249,249,Perugia,IT,Europe,Rome,43.1122,12.38878
+250,250,Thenia,DZ,Africa,Algiers,36.72544,3.55665
+251,251,Hartley,GB,Europe,London,51.38673,0.30367
+252,252,Terezín,CZ,Europe,Prague,50.511002,14.150558
+253,253,Binnish,SY,Asia,Damascus,35.95664,36.7138
+254,254,Ilesa,NG,Africa,Lagos,7.62789,4.74161
+255,255,Vienne,FR,Europe,Paris,45.51667,4.86667
+256,256,Alfenas,BR,America,Sao_Paulo,-21.42917,-45.94722
+257,257,Blackpool,GB,Europe,London,53.81667,-3.05
+258,258,Jaworzno,PL,Europe,Warsaw,50.20528,19.27498
+259,259,Tiruppuvanam,IN,Asia,Kolkata,9.82564,78.25795
+260,260,Kantharalak,TH,Asia,Bangkok,14.64056,104.64992
+261,261,Lancing,GB,Europe,London,50.82882,-0.32247
+262,262,Lille,BE,Europe,Brussels,51.24197,4.82313
+263,263,Kutná Hora,CZ,Europe,Prague,49.952431,15.268654
+264,264,Madhipura,IN,Asia,Kolkata,25.92127,86.79271
+265,265,Sukabumi,ID,Asia,Jakarta,-6.91806,106.92667
+266,266,Gua Musang,MY,Asia,Kuala_Lumpur,4.88441,101.96857
+267,267,Yasothon,TH,Asia,Bangkok,15.79408,104.1451
+268,268,Casa Blanca,MX,America,Mexico_City,19.04222,-98.11889
+269,269,Mitry-Mory,FR,Europe,Paris,48.98333,2.61667
+270,270,Balikpapan,ID,Asia,Makassar,-1.26753,116.82887
+271,271,Saint-Genis-Laval,FR,Europe,Paris,45.69558,4.7934
+272,272,Krasyliv,UA,Europe,Kyiv,49.65186,26.97253
+273,273,Media Luna,CU,America,Havana,20.14298,-77.43532
+274,274,Severodvinsk,RU,Europe,Moscow,64.5635,39.8302
+275,275,Aschaffenburg,DE,Europe,Berlin,49.97704,9.15214
+276,276,Chillum,US,America,New_York,38.96372,-76.99081
+277,277,Cordenons,IT,Europe,Rome,45.9836,12.70038
+278,278,Gainesville,US,America,New_York,29.65163,-82.32483
+279,279,Kundla,IN,Asia,Kolkata,21.34222,71.30633
+280,280,Mount Hagen,PG,Pacific,Port_Moresby,-5.85746,144.23058
+281,281,Lons-le-Saunier,FR,Europe,Paris,46.67535,5.55575
+282,282,North Tustin,US,America,Los_Angeles,33.76446,-117.79394
+283,283,Magomeni,TZ,Africa,Dar_es_Salaam,-6.8,39.25
+284,284,Jashpurnagar,IN,Asia,Kolkata,22.88783,84.13864
+285,285,Front Royal,US,America,New_York,38.91817,-78.19444
+286,286,Ovalle,CL,America,Santiago,-30.60106,-71.19901
+287,287,Sojat,IN,Asia,Kolkata,25.92493,73.66633
+288,288,Yakuplu,TR,Europe,Istanbul,40.98894,28.67582
+289,289,Jagna,PH,Asia,Manila,9.6531,124.3697
+290,290,Hendala,LK,Asia,Colombo,6.9909,79.883
+291,291,Izluchinsk,RU,Asia,Yekaterinburg,60.97944,76.92421
+292,292,Hlukhiv,UA,Europe,Kyiv,51.67822,33.9162
+293,293,Shuangcheng,CN,Asia,Shanghai,45.35,126.28333
+294,294,Beni Douala,DZ,Africa,Algiers,36.61954,4.08282
+295,295,Covington,US,America,New_York,39.08367,-84.50855
+296,296,Chharra,IN,Asia,Kolkata,27.9247,78.40102
+297,297,San Fernando de Henares,ES,Europe,Madrid,40.42386,-3.53261
+298,298,Arzamas,RU,Europe,Moscow,55.39485,43.83992
+299,299,Lagos,NG,Africa,Lagos,6.45407,3.39467
+300,300,Zeist,NL,Europe,Amsterdam,52.09,5.23333
+301,301,Collinwood,US,America,New_York,41.55838,-81.56929
+302,302,Itacoatiara,BR,America,Manaus,-3.14306,-58.44417
+303,303,Dawei,MM,Asia,Yangon,14.0823,98.19151
+304,304,Chanika,TZ,Africa,Dar_es_Salaam,-5.41667,38.01667
+305,305,Dongfeng,CN,Asia,Shanghai,42.64031,125.51176
+306,306,Independence,US,America,Chicago,39.09112,-94.41551
+307,307,Malaut,IN,Asia,Kolkata,30.21121,74.4818
+308,308,Polohy,UA,Europe,Zaporozhye,47.48444,36.25361
+309,309,Beryozovsky,RU,Asia,Yekaterinburg,56.9083,60.8019
+310,310,Pekanbaru,ID,Asia,Jakarta,0.51667,101.44167
+311,311,Santa Cruz de Barahona,DO,America,Santo_Domingo,18.20854,-71.10077
+312,312,Waterbury,US,America,New_York,41.55815,-73.0515
+313,313,Tinaquillo,VE,America,Caracas,9.91861,-68.30472
+314,314,Minokamo,JP,Asia,Tokyo,35.48199,137.02166
+315,315,Brentwood Estates,US,America,Chicago,36.02506,-86.77917
+316,316,Scottsdale,US,America,Phoenix,33.50921,-111.89903
+317,317,Beidao,CN,Asia,Shanghai,34.56861,105.89333
+318,318,Bhuban,IN,Asia,Kolkata,20.88197,85.83334
+319,319,Ikalamavony,MG,Indian,Antananarivo,-21.15,46.58333
+320,320,Most,CZ,Europe,Prague,50.50301,13.63617
+321,321,Pujali,IN,Asia,Kolkata,22.4711,88.1453
+322,322,Kingston upon Hull,GB,Europe,London,53.7446,-0.33525
+323,323,Maasin,PH,Asia,Manila,10.13361,124.84472
+324,324,Jambi City,ID,Asia,Jakarta,-1.6,103.61667
+325,325,New City,US,America,Chicago,41.80753,-87.65644
+326,326,Yenagoa,NG,Africa,Lagos,4.92675,6.26764
+327,327,Nakhon Pathom,TH,Asia,Bangkok,13.8196,100.04427
+328,328,Westchester,US,America,Chicago,41.85059,-87.882
+329,329,Walton-on-the-Naze,GB,Europe,London,51.84819,1.26738
+330,330,Ina,JP,Asia,Tokyo,35.82756,137.95378
+331,331,Kearns,US,America,Denver,40.65995,-111.99633
+332,332,Muncar,ID,Asia,Jakarta,-8.43333,114.33333
+333,333,Corralillo,CU,America,Havana,22.98212,-80.58556
+334,334,Andes,CO,America,Bogota,5.6561,-75.87877
+335,335,Dahlem,DE,Europe,Berlin,52.4581,13.28702
+336,336,Zhoucun,CN,Asia,Shanghai,36.81667,117.81667
+337,337,Shinshiro,JP,Asia,Tokyo,34.9,137.5
+338,338,Penzance,GB,Europe,London,50.11861,-5.53715
+339,339,Claremont,US,America,Los_Angeles,34.09668,-117.71978
+340,340,Isfahan,IR,Asia,Tehran,32.65246,51.67462
+341,341,Rahat,IL,Asia,Jerusalem,31.39547,34.75699
+342,342,Hita,JP,Asia,Tokyo,33.3213,130.94098
+343,343,Kaukauna,US,America,Chicago,44.27804,-88.27205
+344,344,'Ali Sabieh,DJ,Africa,Djibouti,11.15583,42.7125
+345,345,Tuxtla,MX,America,Mexico_City,16.75973,-93.11308
+346,346,Mikhaylovka,RU,Europe,Volgograd,50.06,43.2379
+347,347,Simpang,ID,Asia,Jakarta,-1.26424,104.09701
+348,348,Mampong,GH,Africa,Accra,7.06273,-1.4001
+349,349,Sillanwali,PK,Asia,Karachi,31.82539,72.54064
+350,350,Barpeta,IN,Asia,Kolkata,26.32293,91.00632
+351,351,Kherson,UA,Europe,Kyiv,46.65581,32.6178
+352,352,Baki,SO,Africa,Mogadishu,9.89206,43.38531
+353,353,Ulanhot,CN,Asia,Shanghai,46.08333,122.08333
+354,354,Madrid,CO,America,Bogota,4.73245,-74.26419
+355,355,Tortona,IT,Europe,Rome,44.89784,8.86374
+356,356,Aklera,IN,Asia,Kolkata,24.41288,76.56719
+357,357,Sterling,US,America,New_York,39.00622,-77.4286
+358,358,Baza,ES,Europe,Madrid,37.49073,-2.77259
+359,359,Boumerdas,DZ,Africa,Algiers,36.76639,3.47717
+360,360,Meizhou,CN,Asia,Shanghai,24.28859,116.11768
+361,361,Diamond Harbour,IN,Asia,Kolkata,22.19303,88.18466
+362,362,Diwek,ID,Asia,Jakarta,-7.57897,112.23109
+363,363,Mongo,TD,Africa,Ndjamena,12.18441,18.69303
+364,364,Carnaxide,PT,Europe,Lisbon,38.72706,-9.24671
+365,365,Deltona,US,America,New_York,28.90054,-81.26367
+366,366,Onex,CH,Europe,Zurich,46.18396,6.10237
+367,367,Hakodate,JP,Asia,Tokyo,41.77583,140.73667
+368,368,Thomazeau,HT,America,Port-au-Prince,18.65297,-72.09391
+369,369,Liberia,CR,America,Costa_Rica,10.63504,-85.43772
+370,370,Rwamagana,RW,Africa,Kigali,-1.9487,30.4347
+371,371,Skalica,SK,Europe,Bratislava,48.8449,17.22635
+372,372,Toledo,US,America,New_York,41.66394,-83.55521
+373,373,Ramla,IL,Asia,Jerusalem,31.92923,34.86563
+374,374,Litvínov,CZ,Europe,Prague,50.598427,13.610242
+375,375,Kireyevsk,RU,Europe,Moscow,53.93361,37.92792
+376,376,Sremska Mitrovica,RS,Europe,Belgrade,44.97639,19.61222
+377,377,Gavrilov-Yam,RU,Europe,Moscow,57.30185,39.85331
+378,378,Changshu City,CN,Asia,Shanghai,31.64615,120.74221
+379,379,Bon Air,US,America,New_York,37.52487,-77.55777
+380,380,Aykhal,RU,Asia,Yakutsk,65.93381,111.4834
+381,381,Coralville,US,America,Chicago,41.6764,-91.58045
+382,382,Misterbianco,IT,Europe,Rome,37.51803,15.00913
+383,383,Cypress Hills,US,America,New_York,40.67705,-73.89125
+384,384,Rosemount,US,America,Chicago,44.73941,-93.12577
+385,385,Bijeljina,BA,Europe,Sarajevo,44.75874,19.21437
+386,386,Zaozhuang,CN,Asia,Shanghai,34.86472,117.55417
+387,387,Frenda,DZ,Africa,Algiers,35.06544,1.04945
+388,388,Aytos,BG,Europe,Sofia,42.7,27.25
+389,389,Shahre Jadide Andisheh,IR,Asia,Tehran,35.6803,51.0193
+390,390,Barbil,IN,Asia,Kolkata,22.10194,85.37752
+391,391,Bergama,TR,Europe,Istanbul,39.12074,27.18052
+392,392,Walsrode,DE,Europe,Berlin,52.86147,9.5926
+393,393,Nidderau,DE,Europe,Berlin,50.23805,8.86704
+394,394,Burscheid,DE,Europe,Berlin,51.08468,7.11393
+395,395,Middle River,US,America,New_York,39.33427,-76.43941
+396,396,East Haven,US,America,New_York,41.27621,-72.86843
+397,397,Reda,PL,Europe,Warsaw,54.60528,18.34717
+398,398,Valinhos,BR,America,Sao_Paulo,-22.97056,-46.99583
+399,399,Santa Rosa Jauregui,MX,America,Mexico_City,20.74122,-100.44843
+400,400,Schwalmtal,DE,Europe,Berlin,51.21667,6.26667
+401,401,San Rafael,CR,America,Costa_Rica,9.92787,-84.13722
+402,402,Jhol,PK,Asia,Karachi,25.95533,68.88871
+403,403,Esperanza,AR,America,Argentina/Cordoba,-31.4488,-60.93173
+404,404,Maliana,TL,Asia,Dili,-8.99167,125.21972
+405,405,Itabirito,BR,America,Sao_Paulo,-20.25333,-43.80139
+406,406,Salima,MW,Africa,Blantyre,-13.7804,34.4587
+407,407,Vryheid,ZA,Africa,Johannesburg,-27.76952,30.79165
+408,408,Strathfield,AU,Australia,Sydney,-33.88096,151.07986
+409,409,Petrozavodsk,RU,Europe,Moscow,61.78491,34.34691
+410,410,Smolyan,BG,Europe,Sofia,41.57439,24.71204
+411,411,Novopavlovsk,RU,Europe,Moscow,43.96222,43.63417
+412,412,Quimper,FR,Europe,Paris,48.0,-4.1
+413,413,Saint-Denis,RE,Indian,Reunion,-20.88231,55.4504
+414,414,Kamina,CD,Africa,Lubumbashi,-8.73508,24.99798
+415,415,Norwalk,US,America,New_York,41.24255,-82.61573
+416,416,Gernika-Lumo,ES,Europe,Madrid,43.31667,-2.68333
+417,417,Sorsogon,PH,Asia,Manila,12.97389,123.99333
+418,418,Eastwood,AU,Australia,Sydney,-33.79176,151.08057
+419,419,Falconara Marittima,IT,Europe,Rome,43.62558,13.39954
+420,420,Tonota,BW,Africa,Gaborone,-21.44236,27.46153
+421,421,Schleswig,DE,Europe,Berlin,54.52156,9.5586
+422,422,Ponta Delgada,PT,Atlantic,Azores,37.74615,-25.66689
+423,423,Woodbridge,US,America,New_York,40.5576,-74.28459
+424,424,Fitchburg,US,America,New_York,42.58342,-71.8023
+425,425,Juhaynah,EG,Africa,Cairo,26.67319,31.4976
+426,426,Deoli,IN,Asia,Kolkata,25.75728,75.37991
+427,427,Danilov,RU,Europe,Moscow,58.1908,40.17171
+428,428,Temara,MA,Africa,Casablanca,33.92866,-6.90656
+429,429,Freetown,SL,Africa,Freetown,8.48714,-13.2356
+430,430,Porterville,US,America,Los_Angeles,36.06523,-119.01677
+431,431,Leteri,IN,Asia,Kolkata,24.05979,77.40858
+432,432,Middletown,US,America,New_York,41.54566,-71.29144
+433,433,Malden,US,America,New_York,42.4251,-71.06616
+434,434,Likhobory,RU,Europe,Moscow,55.85,37.56667
+435,435,Davangere,IN,Asia,Kolkata,14.46693,75.92694
+436,436,Andijon,UZ,Asia,Tashkent,40.78206,72.34424
+437,437,Astara,AZ,Asia,Baku,38.45598,48.87498
+438,438,Nonsan,KR,Asia,Seoul,36.20389,127.08472
+439,439,Winsford,GB,Europe,London,53.19146,-2.52398
+440,440,Somma Vesuviana,IT,Europe,Rome,40.87329,14.43865
+441,441,Yeysk,RU,Europe,Moscow,46.7055,38.2739
+442,442,Kahului,US,Pacific,Honolulu,20.88953,-156.47432
+443,443,Recife,BR,America,Recife,-8.05389,-34.88111
+444,444,Igbara-Odo,NG,Africa,Lagos,7.50251,5.06258
+445,445,Searcy,US,America,Chicago,35.25064,-91.73625
+446,446,Yao,JP,Asia,Tokyo,34.61667,135.6
+447,447,Idenao,CM,Africa,Douala,4.2475,9.00472
+448,448,Mvomero,TZ,Africa,Dar_es_Salaam,-6.25,38.66667
+449,449,Las Gabias,ES,Europe,Madrid,37.13548,-3.67029
+450,450,Lower Earley,GB,Europe,London,51.42708,-0.91979
+451,451,Rio Real,BR,America,Bahia,-11.48472,-37.93278
+452,452,Robertsonpet,IN,Asia,Kolkata,12.95629,78.27539
+453,453,Novara,IT,Europe,Rome,45.44694,8.62118
+454,454,Nowshahr,IR,Asia,Tehran,36.64852,51.49621
+455,455,Norfolk County,CA,America,Toronto,42.8334,-80.38297
+456,456,Clermont,US,America,New_York,28.54944,-81.77285
+457,457,Adra,IN,Asia,Kolkata,23.49668,86.68363
+458,458,Ferrol,ES,Europe,Madrid,43.48961,-8.2194
+459,459,Heroica Matamoros,MX,America,Matamoros,25.87972,-97.50417
+460,460,Dumont,US,America,New_York,40.94065,-73.99681
+461,461,Paracho de Verduzco,MX,America,Mexico_City,19.64745,-102.04897
+462,462,Inawashiro,JP,Asia,Tokyo,37.56667,140.11667
+463,463,Belper,GB,Europe,London,53.0233,-1.48119
+464,464,Lesnoy,RU,Asia,Yekaterinburg,58.63667,59.80222
+465,465,Nova Xavantina,BR,America,Cuiaba,-14.66463,-52.35558
+466,466,Ataq,YE,Asia,Aden,14.53767,46.83187
+467,467,Bogoroditsk,RU,Europe,Moscow,53.77166,38.12408
+468,468,Solntsevo,RU,Europe,Moscow,55.63711,37.38115
+469,469,Montana,BG,Europe,Sofia,43.4125,23.225
+470,470,Ngemplak,ID,Asia,Jakarta,-7.54972,110.71639
+471,471,American Canyon,US,America,Los_Angeles,38.17492,-122.2608
+472,472,Myawadi,MM,Asia,Yangon,16.68911,98.50893
+473,473,La Ligua,CL,America,Santiago,-32.45242,-71.23106
+474,474,Opportunity,US,America,Los_Angeles,47.64995,-117.23991
+475,475,Lower West Side,US,America,Chicago,41.8542,-87.66561
+476,476,Segundo Ensanche,ES,Europe,Madrid,42.8139,-1.64295
+477,477,New Canaan,US,America,New_York,41.14676,-73.49484
+478,478,Espoo,FI,Europe,Helsinki,60.2052,24.6522
+479,479,Carlos Barbosa,BR,America,Sao_Paulo,-29.2975,-51.50361
+480,480,Riverbank,US,America,Los_Angeles,37.73604,-120.93549
+481,481,Novogrudok,BY,Europe,Minsk,53.5942,25.8191
+482,482,Privolzhskiy,RU,Europe,Saratov,51.40944,46.04833
+483,483,Kheda,IN,Asia,Kolkata,22.75218,72.68533
+484,484,Pingyi,CN,Asia,Shanghai,35.50056,117.63083
+485,485,Castelfranco Emilia,IT,Europe,Rome,44.59445,11.04979
+486,486,San Carlos,CO,America,Bogota,8.79577,-75.69947
+487,487,Reus,ES,Europe,Madrid,41.15612,1.10687
+488,488,Troutdale,US,America,Los_Angeles,45.53929,-122.38731
+489,489,Ragusa,IT,Europe,Rome,36.92574,14.72443
+490,490,Bad Honnef,DE,Europe,Berlin,50.64336,7.2278
+491,491,Taunton,US,America,New_York,41.9001,-71.08977
+492,492,Kulai,MY,Asia,Kuala_Lumpur,1.6561,103.6032
+493,493,Progreso,MX,America,Merida,21.28306,-89.66123
+494,494,Zgorzelec,PL,Europe,Warsaw,51.14942,15.00835
+495,495,Dax,FR,Europe,Paris,43.71032,-1.05366
+496,496,Mokopane,ZA,Africa,Johannesburg,-24.19436,29.00974
+497,497,Changzhi,CN,Asia,Shanghai,35.20889,111.73861
+498,498,Santa Catalina,PH,Asia,Manila,9.3337,122.8637
+499,499,Ken Caryl,US,America,Denver,39.57582,-105.11221
+500,500,Gonesse,FR,Europe,Paris,48.98693,2.44892
+501,501,Bretten,DE,Europe,Berlin,49.03685,8.70745
+502,502,Cabo,BR,America,Recife,-8.28333,-35.03333
+503,503,Damnoen Saduak,TH,Asia,Bangkok,13.51825,99.95469
+504,504,Far Rockaway,US,America,New_York,40.60538,-73.75513
+505,505,Rafiganj,IN,Asia,Kolkata,24.81757,84.63445
+506,506,Svatove,UA,Europe,Zaporozhye,49.41029,38.15035
+507,507,Moga,IN,Asia,Kolkata,30.81383,75.16878
+508,508,Hasilpur,PK,Asia,Karachi,29.69221,72.54566
+509,509,Shimotoda,JP,Asia,Tokyo,35.815,139.6853
+510,510,Standerton,ZA,Africa,Johannesburg,-26.93366,29.24152
+511,511,Beni Khiar,TN,Africa,Tunis,36.46917,10.78222
+512,512,Darreh Shahr,IR,Asia,Tehran,33.14447,47.3799
+513,513,Hlohovec,SK,Europe,Bratislava,48.43174,17.8031
+514,514,Besuki,ID,Asia,Jakarta,-7.73379,113.69785
+515,515,Nova Kakhovka,UA,Europe,Kyiv,46.75451,33.34864
+516,516,Scarsdale,US,America,New_York,41.0051,-73.78458
+517,517,Iron River,US,America,Menominee,46.09273,-88.64235
+518,518,Nampa,US,America,Boise,43.54072,-116.56346

@@ -9,7 +9,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder, PowerTransformer, FunctionTransformer, PolynomialFeatures, MinMaxScaler
 from sklearn.impute import SimpleImputer
-from sklearn.feature_selection import VarianceThreshold, RFE
+from sklearn.feature_selection import VarianceThreshold, RFE, SelectKBest,  f_regression
 from sklearn.svm import SVR
 from sklearn.ensemble import RandomForestClassifier, StackingClassifier
 from sklearn.neighbors import KNeighborsClassifier
@@ -72,10 +72,10 @@ def get_numeric_columns(df):
 
 def get_pipeline_5(df, k):
     numeric_pipeline = Pipeline([
-        #("power", PowerTransformer(method="yeo-johnson")),
-        ("poly", PolynomialFeatures(degree=2, include_bias=False)),
-        #("scaler", StandardScaler()),
-        ("scaler", MinMaxScaler(feature_range=(-1, 1)))
+        ("power", PowerTransformer(method="yeo-johnson")),
+        #("poly", PolynomialFeatures(degree=2, include_bias=False)),
+        ("scaler", StandardScaler()),
+        #("scaler", MinMaxScaler(feature_range=(-1, 1)))
     ])
     
     cat_pipeline = Pipeline([

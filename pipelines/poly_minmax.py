@@ -9,7 +9,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder, PowerTransformer, FunctionTransformer, PolynomialFeatures, MinMaxScaler
 from sklearn.impute import SimpleImputer
-from sklearn.feature_selection import VarianceThreshold, RFE
+from sklearn.feature_selection import VarianceThreshold, RFE, SelectKBest,  f_regression
 from sklearn.svm import SVR
 from sklearn.ensemble import RandomForestClassifier, StackingClassifier
 from sklearn.neighbors import KNeighborsClassifier
@@ -71,13 +71,14 @@ def get_numeric_columns(df):
     return df.select_dtypes(include=['int', 'float']).columns.tolist()
 
 def get_pipeline_1(df):
+   
     numeric_pipeline = Pipeline([
         #("power", PowerTransformer(method="yeo-johnson")),
         ("poly", PolynomialFeatures(degree=2, include_bias=False)),
         #("scaler", StandardScaler()),
         ("scaler", MinMaxScaler(feature_range=(-1, 1)))
     ])
-    
+
     cat_pipeline = Pipeline([
         ('imputer', SimpleImputer(strategy='most_frequent')),
         ('encoder', OneHotEncoder(sparse_output=False, handle_unknown='ignore'))
@@ -98,6 +99,8 @@ def get_pipeline_1(df):
         final_estimator=LogisticRegression(),
         passthrough=True)
     
+
+    
     observation_pipeline = Pipeline([
         ("schema", EnforceSchema(schema=observation_schema)),
         ("ranges", EnforceValueRanges(ranges=valid_ranges)),
@@ -110,8 +113,8 @@ def get_pipeline_1(df):
         ], remainder='drop').set_output(transform="pandas")),
     
         ("variance_threshold", VarianceThreshold(threshold=0.01).set_output(transform="pandas")),
-        #("select_kbest", SelectKBest(score_func=f_regression, k=10).set_output(transform="pandas")), 
-        ("RFE", RFE(SVR(kernel="linear"), n_features_to_select=10, step=1).set_output(transform="pandas")),
+        ("select_kbest", SelectKBest(score_func=f_regression, k=10).set_output(transform="pandas")), 
+        #("RFE", RFE(SVR(kernel="linear"), n_features_to_select=10, step=1).set_output(transform="pandas")),
         ("stack", stack)
     ])
 

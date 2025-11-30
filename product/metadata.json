@@ -1,0 +1,361 @@
+{
+    "project": {
+        "name": "Oximetry Classification",
+        "author": [
+            "Matej Bebej",
+            "Marian Kurcina"
+        ],
+        "pipeline_type": "classification"
+    },
+    "input": {
+        "SpO\u2082": {
+            "type": "float",
+            "valid_range": [
+                95,
+                100
+            ]
+        },
+        "HR": {
+            "type": "float",
+            "valid_range": [
+                60,
+                100
+            ]
+        },
+        "PI": {
+            "type": "float",
+            "valid_range": [
+                0.2,
+                20
+            ]
+        },
+        "RR": {
+            "type": "float",
+            "valid_range": [
+                12,
+                20
+            ]
+        },
+        "EtCO\u2082": {
+            "type": "float",
+            "valid_range": [
+                35,
+                45
+            ]
+        },
+        "FiO\u2082": {
+            "type": "float",
+            "valid_range": [
+                21,
+                100
+            ]
+        },
+        "PRV": {
+            "type": "float",
+            "valid_range": [
+                20,
+                200
+            ]
+        },
+        "BP": {
+            "type": "float",
+            "valid_range": [
+                60,
+                120
+            ]
+        },
+        "Skin Temperature": {
+            "type": "float",
+            "valid_range": [
+                33,
+                38
+            ]
+        },
+        "Motion/Activity index": {
+            "type": "float",
+            "valid_range": null
+        },
+        "PVI": {
+            "type": "float",
+            "valid_range": [
+                10,
+                20
+            ]
+        },
+        "Hb level": {
+            "type": "float",
+            "valid_range": [
+                12,
+                18
+            ]
+        },
+        "SV": {
+            "type": "float",
+            "valid_range": [
+                60,
+                100
+            ]
+        },
+        "CO": {
+            "type": "float",
+            "valid_range": [
+                4,
+                8
+            ]
+        },
+        "Blood Flow Index": {
+            "type": "float",
+            "valid_range": null
+        },
+        "PPG waveform features": {
+            "type": "float",
+            "valid_range": null
+        },
+        "Signal Quality Index": {
+            "type": "float",
+            "valid_range": [
+                0,
+                100
+            ]
+        },
+        "Respiratory effort": {
+            "type": "float",
+            "valid_range": null
+        },
+        "O\u2082 extraction ratio": {
+            "type": "float",
+            "valid_range": [
+                0.2,
+                3
+            ]
+        },
+        "SNR": {
+            "type": "float",
+            "valid_range": [
+                20,
+                40
+            ]
+        },
+        "latitude": {
+            "type": "float",
+            "valid_range": null
+        },
+        "longitude": {
+            "type": "float",
+            "valid_range": null
+        }
+    },
+    "output": {
+        "name": "oximetry",
+        "type": "int",
+        "possible_values": "0/1"
+    },
+    "pipeline": {
+        "steps": [
+            {
+                "name": "schema",
+                "class": "EnforceSchema",
+                "description": "Ensures correct dtypes for all input fields",
+                "parameters": {
+                    "schema": {
+                        "SpO\u2082": "float",
+                        "HR": "float",
+                        "PI": "float",
+                        "RR": "float",
+                        "EtCO\u2082": "float",
+                        "FiO\u2082": "float",
+                        "PRV": "float",
+                        "BP": "float",
+                        "Skin Temperature": "float",
+                        "Motion/Activity index": "float",
+                        "PVI": "float",
+                        "Hb level": "float",
+                        "SV": "float",
+                        "CO": "float",
+                        "Blood Flow Index": "float",
+                        "PPG waveform features": "float",
+                        "Signal Quality Index": "float",
+                        "Respiratory effort": "float",
+                        "O\u2082 extraction ratio": "float",
+                        "SNR": "float",
+                        "oximetry": "int",
+                        "latitude": "float",
+                        "longitude": "float"
+                    }
+                }
+            },
+            {
+                "name": "ranges",
+                "class": "EnforceValueRanges",
+                "description": "Validates that values fall within allowed medical ranges",
+                "parameters": {
+                    "SpO\u2082": [
+                        95,
+                        100
+                    ],
+                    "HR": [
+                        60,
+                        100
+                    ],
+                    "PI": [
+                        0.2,
+                        20
+                    ],
+                    "RR": [
+                        12,
+                        20
+                    ],
+                    "EtCO\u2082": [
+                        35,
+                        45
+                    ],
+                    "FiO\u2082": [
+                        21,
+                        100
+                    ],
+                    "PRV": [
+                        20,
+                        200
+                    ],
+                    "BP": [
+                        60,
+                        120
+                    ],
+                    "Skin Temperature": [
+                        33,
+                        38
+                    ],
+                    "Motion/Activity index": null,
+                    "PVI": [
+                        10,
+                        20
+                    ],
+                    "Hb level": [
+                        12,
+                        18
+                    ],
+                    "SV": [
+                        60,
+                        100
+                    ],
+                    "CO": [
+                        4,
+                        8
+                    ],
+                    "Blood Flow Index": null,
+                    "PPG waveform features": null,
+                    "Signal Quality Index": [
+                        0,
+                        100
+                    ],
+                    "Respiratory effort": null,
+                    "O\u2082 extraction ratio": [
+                        0.2,
+                        3
+                    ],
+                    "SNR": [
+                        20,
+                        40
+                    ]
+                }
+            },
+            {
+                "name": "drop_geo",
+                "class": "drop_columns",
+                "description": "Removes latitude / longitude because they are not medical features",
+                "removed_columns": [
+                    "latitude",
+                    "longitude"
+                ]
+            },
+            {
+                "name": "drop_na",
+                "class": "drop_na",
+                "description": "Removes rows with any missing values"
+            },
+            {
+                "name": "encode",
+                "class": "ColumnTransformer",
+                "description": "Handles numeric + categorical preprocessing",
+                "transformers": {
+                    "numerical": {
+                        "pipeline": [
+                            "PowerTransformer(yeo-johnson)",
+                            "StandardScaler()"
+                        ]
+                    },
+                    "categorical": {
+                        "pipeline": [
+                            "SimpleImputer(most_frequent)",
+                            "OneHotEncoder()"
+                        ],
+                        "columns": []
+                    }
+                }
+            },
+            {
+                "name": "variance_threshold",
+                "class": "VarianceThreshold",
+                "description": "Removes features with zero or near-zero variance",
+                "threshold": 0.01
+            },
+            {
+                "name": "select_kbest",
+                "class": "SelectKBest",
+                "description": "Selects top k features by f_regression scoring",
+                "k": 6,
+                "score_func": "f_regression",
+                "selected_features": [
+                    "SpO\u2082",
+                    "PI",
+                    "RR",
+                    "EtCO\u2082",
+                    "BP",
+                    "PVI"
+                ]
+            },
+            {
+                "name": "stack",
+                "class": "StackingClassifier",
+                "description": "Final machine learning model",
+                "estimators": {
+                    "rf": {
+                        "type": "RandomForestClassifier",
+                        "params": {
+                            "n_estimators": 300,
+                            "max_depth": 10,
+                            "max_features": null,
+                            "min_samples_leaf": 2,
+                            "min_samples_split": 5,
+                            "random_state": 33
+                        }
+                    },
+                    "knn": {
+                        "type": "KNeighborsClassifier",
+                        "params": {
+                            "n_neighbors": 2
+                        }
+                    },
+                    "logreg": {
+                        "type": "LogisticRegression",
+                        "params": {
+                            "max_iter": 1000
+                        }
+                    }
+                },
+                "final_estimator": {
+                    "type": "LogisticRegression"
+                }
+            }
+        ]
+    },
+    "evaluation": {
+        "metrics": {
+            "accuracy": null,
+            "precision_weighted": null,
+            "recall_weighted": null,
+            "f1_weighted": null
+        },
+        "confusion_matrix": null
+    }
+}

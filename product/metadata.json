@@ -352,10 +352,9 @@
     "evaluation": {
         "metrics": {
             "accuracy": null,
-            "precision_weighted": null,
-            "recall_weighted": null,
-            "f1_weighted": null
-        },
-        "confusion_matrix": null
+            "precision": null,
+            "recall": null,
+            "f1": null
+        }
     }
 }
